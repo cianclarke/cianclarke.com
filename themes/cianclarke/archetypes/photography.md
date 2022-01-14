@@ -1,6 +1,6 @@
 ---
-title: "Index" # Title of your project
-date: 2022-01-14T16:46:57-05:00
+title: "{{ replace .TranslationBaseName "-" " " | title }}" # Title of your project
+date: {{ .Date }}
 weight: 0 # Order in which to show this project on the home page
 external_link: "" # Optional external link instead of modal
 resources:
