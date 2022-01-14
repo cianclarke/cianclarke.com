@@ -12,9 +12,10 @@
     "url": "https://github.com/cianclarke/cianclarke.com/issues"
   },
   "homepage": "https://github.com/cianclarke/cianclarke.com#readme",
+  "scripts": {
+    "build": "npm install -g postcss postcss-cli autoprefixer && hugo --gc --minify -v"
+  },
   "dependencies": {
-    "autoprefixer": "^10.4.2",
-    "postcss": "^8.4.5",
     "postcss-cli": "^9.1.0"
   }
 }
