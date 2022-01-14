@@ -8,7 +8,7 @@ tags: ["blog"]
 
 
 
-## <span class="Apple-style-span" style="font-size: 16px; line-height: 24px;">[![](http://res.cloudinary.com/cianclarke/image/upload/v1382804328/Screen-Shot-2011-11-10-at-21_17_47_isix1g.png "Screen Shot 2011-11-10 at 21.17.47")](http://res.cloudinary.com/cianclarke/image/upload/v1382804328/Screen-Shot-2011-11-10-at-21_17_47_isix1g.png)QR codes are a barcode-like representation of a string of text – they came from the manufacturing industry as a useful means of tracking materials through a factory floor[1]. </span>
+##  <span class="Apple-style-span" style="font-size: 16px; line-height: 24px;">[![](http://res.cloudinary.com/cianclarke/image/upload/v1382804328/Screen-Shot-2011-11-10-at-21_17_47_isix1g.png "Screen Shot 2011-11-10 at 21.17.47")](http://res.cloudinary.com/cianclarke/image/upload/v1382804328/Screen-Shot-2011-11-10-at-21_17_47_isix1g.png)QR codes are a barcode-like representation of a string of text – they came from the manufacturing industry as a useful means of tracking materials through a factory floor[1]. </span>
 
 Regular bar codes contain a certain beauty in their irregular pinstripe. Their retro street-cred comes from the barcode playing an important part in the history of computing, and there’s a degree of artform in the juxtaposition of those vertical bars.
 

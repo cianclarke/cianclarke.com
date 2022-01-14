@@ -20,7 +20,7 @@ I'd evaluated a number of approaches to this problem, with some important criter
 
 I'd evaluated a number of potential systems to tackle this problem, and ruled them out for various reasons. 
 
-##Other Products I Considered
+## Other Products I Considered
 
 * [More Beer Heated & Cooled Conical](http://www.morebeer.com/products/75-gallon-conical-fermenter-heated-cooled.html) - OK, let's be honest, this was never even a contender. At almost $1800, it's orders of magnitude over budget. But, credit where it's due, this is where the inspiration for this whole concept came from - attempts to reverse engineer this type of conical. If you have $1800 to spare, I have no doubt it's worth it!
 * [Brew Jacket](http://www.brewjacket.com/) - Too tied to a specific type of carboy, too expensive, too few success testimonials on brew forums
@@ -30,14 +30,14 @@ I'd evaluated a number of potential systems to tackle this problem, and ruled th
 	* Using an aquarium chiller in-line to circulate cool liquid
 * [SS Brew tech FTSS](http://www.ssbrewtech.com/products/ftss-temp-control-for-7-gallon-bucket-chronical) - Ruled out because it's too damn expensive, and external reservoir. Still - a nice off the shelf solution if $ is no issue. 
 
-##The Route I Took 
+## The Route I Took 
 I came across peltier cooling as part of researching this topic on Reddit's Home Brewing subreddit.  
 Turns out an Intel Engineer called Rob Swanson had built a peltier cooled conical system based off his Stout Tanks Conical, and put together a PDF of the build[1]. This set the idea in motion, but I first spent many more months researching & flip-flopping between ideas.  
 I was very dubious of Peltiers, and had seen a lot of negativity around their use. In the end, it was Dan Curtis (another invaluable source in this build, his document[2] was a huge help) who convinced me to try it. 
 
-# The Build
+#  The Build
 
-## The Conical
+##  The Conical
 <span class="alignright">
 ![The Conical](http://i.imgur.com/68RzJpLm.jpg)  <br style="clear:both;"/>
 *The conical, before I began this many-month long quest*   
@@ -48,7 +48,7 @@ I bought mine used from [Home Brew Talk classifieds](http://www.homebrewtalk.com
 
 If you're considering this build, I'd still recommend the Stout Tanks conicals - but the cooling method will likely work on any conical tank.
 
-## The Temperature Controller
+##  The Temperature Controller
 First was a way of building a temperature controller capable of heating & cooling the conical. Ranco do a pre-wired two-stage controller, but it's $150. 
 Instead, I went the well established homebrew route of building an STC-1000 temp controller. I bought a flashed STC1000 which gives neat brewing temperature profiles [from The Black Box](http://www.blackboxbrew.com/store/stc-1000), and wired this myself using [readily available online tutorials](http://brewprof.com/weekend-diy-homebrew-project-dual-stage-temperature-controller-stc-1000/).
 Black Box also sell [a pre-wired version](http://www.blackboxbrew.com/store/the-black-box) - it's rarely ever in stock, but if it ever is, this is the route I'd take. I'm no electrician, so to wire it up took me a few hours.  
@@ -57,10 +57,10 @@ Black Box also sell [a pre-wired version](http://www.blackboxbrew.com/store/the-
 *My finished temperature controller*  
 </span>
 
-## The Peltier Cooler
+##  The Peltier Cooler
 Now, the good stuff - how to build the peltier cooled conical. 
 
-###Parts List
+### Parts List
 This parts list assumed building 2X cold plate heatsinks each with 2x peltiers, which should be enough to see 40f drop below ambient.
 
 Kudos to Dan Curtis's document[2] here, almost all this list is from his document. 
@@ -85,7 +85,7 @@ You can skip these parts if you buy the Stout Tanks pre-milled peltier kit, but 
 
 
 
-### Milling the Aluminium
+###  Milling the Aluminium
 This is by far the most difficult part - to mill these parts takes an experienced machinist, which is very difficult to come by. Reminder that Stout tanks sell a pre-milled heat sink & fan combo to fit their tanks - it'll likely work out more expensive, but if you have one of their tanks, [buy this and skip to the assembly step.](http://conical-fermenter.com/Peltier-Kit-for-7-and-12-gal-fermenters.html)  
 I couldn't, since I wasn't sure my tank was made by Stout.
 
@@ -100,21 +100,21 @@ We also included a notch in the edge of the aluminium heat sink to loop the stra
 ![CNC Milling 1/2 of the the heatsink parts](http://i.imgur.com/90XNwkDm.jpg)  
 *CNC Milling 1/2 of the the heatsink parts*
 
-### Assembling & Fitting the Cold Plates
+###  Assembling & Fitting the Cold Plates
 
 Now that the parts have been milled, before fitting to the tank, it's time to assemble the full heat sink. 
 
-#### Preparing the PSU
+####  Preparing the PSU
 The PSU is almost ready to go - you'll just need to create a jumper on your PSU to cause it to start without a motherboard - [see here for instructions, skip the switch.](http://www.instructables.com/id/How-to-power-up-an-ATX-Power-Supply-without-a-PC/)  
 Then, snip the black molex connector (it'll melt under the heat) from the CPU cable of the PSU. This provides 4x black-yellow 12v rails for the 4x peltiers.  
 <span class="alignright">
 ![The CPU molex](http://i.imgur.com/7QMqVoim.png)  <br style="clear:both;"/>
 The CPU Molex connector  
 </span>
-#### Testing the peltiers
+####  Testing the peltiers
 At this point, it's a good idea to wire one-by-one each of the 4 peltiers, to test and verify they cool OK. Only run for a very short period of time, seconds. You should be able to identify the hot and cold side - but be careful, these get hot!
 
-#### Preparing the heatsinks
+####  Preparing the heatsinks
 ![Parts needed for this step](http://i.imgur.com/xTOfRLtl.jpg)  
 *Parts needed for this step - CPU coolers, peltiers and fans. Not pictured: thermal paste*
 
@@ -134,7 +134,7 @@ Depending on your aluminium  blocks, and how new your CPU coolers are, now might
 	2. The peltier and the CPU cooler. 
 7. At this point, you can wire up the peltiers & cpu fans to the PSU's CPU wire to test - I used wire nuts. You should feel your aluminium cold plate get colder and colder over the space of 20-40mins. You might even get frost to form - mine didn't. 
  
-#### Attaching the heatsinks
+####  Attaching the heatsinks
 
 1. Chain together worm clamps in 2x groups of 3, or gather your cable ties. 
 2. Apply thermal paste to the curved contact area of the cold plates. Again, a thin layer to fill any gaps is all that's required, but because of the size of the plates, it might take quite a bit of paste. 
@@ -145,7 +145,7 @@ If you bought a heating pad, affix this now also.
 6. Tighten the worm clamps as much as possible, as quick as possible. 
 7. Rest - grab a beer, the hardest part is done. Plain sailing from here, hopefully! 
 
-#### Fit the insulation
+####  Fit the insulation
 You'll need to cut the insulation to fit - I used an Exacto Knife. 
 
 1. Cut a cone, with enough space at the bottom for the bottom dump valve. For this, a protractor would be useful - I "eye-balled" my cone, and it's far from ideal. 
@@ -153,7 +153,7 @@ You'll need to cut the insulation to fit - I used an Exacto Knife.
 3. Tie the insulation together - I used velcro on the joints, works a treat. 
 
 
-#### Wiring the cold plates
+####  Wiring the cold plates
 
 1. Recall that there are 4x 12v black-yellow paired rails which we stripped from the PSU. We're going to group each CPU Cooler & Peltier pair onto one of these rails - let's call each of these a **cooling group**. 
 2. I'm not an electrician - and I probably shouldn't be doing this step, let alone instructing other people - but, remember
@@ -169,7 +169,7 @@ That should be it - your peltier cooled conical is ready for cooling!
 ![Before tidying up the wiring](http://i.imgur.com/B2414N8l.jpg)  
 *Finished, but before tidying up the wiring*
 
-### Testing & Benchmarking
+###  Testing & Benchmarking
 
 Now that the cooling setup is assembled and wired, it's worth tidying up the wiring with cable ties. I'd like to add small junction boxes at some point to my conical, but haven't gotten around to it.  
 Now that I've installed the cold plates, my heating pad no longer fits - I need to find a smaller one, but this isn't a priority for me - my ambient is 70f year-round, so I never need to heat.
@@ -179,7 +179,7 @@ This means, without having the fans run an unreasonable amount (i.e. not constan
 I could probably ferment for the first stages of a lager, but could not lager longer-term, something I hope to fix.  
 Hopefully you'll see better results still!
 
-### The Finished Product
+###  The Finished Product
 ![Finished Product](http://i.imgur.com/9ZRXItLm.jpg) ![Finished Product](http://i.imgur.com/ffZF2iPm.jpg)  
 ![Pressure transferring wort under CO2 - no oxygenation, little sediment](http://i.imgur.com/MYNqHlwl.png)  
 *Pressure transferring wort under CO2 - no oxygenation, little sediment.*  
@@ -188,7 +188,7 @@ Hopefully you'll see better results still!
 *An over-active airlock*
 
 
-### Troubleshooting
+###  Troubleshooting
 
 Here's a list of troubleshooting steps I performed when at first I was seeing sub-optimal performance. Again, big thanks to Dan Curtis who exchanged many emails with me helping debug. 
 
@@ -199,7 +199,7 @@ Here's a list of troubleshooting steps I performed when at first I was seeing su
 5. Have you applied too much thermal paste? Too little? A lot is written about this when it comes to applying to CPUs - read up a little on the subject. 
 6. Is the cold plate flush with the body of the fermentor? 
 
-### Improvements
+###  Improvements
 While I'm very pleased with how the conical is working out, I think there's room for some improvement. Here's inspiration for anybody taking on this project to learn from my mistakes! 
 
 1. My heatsinks at 10" long are a little too tall. I need to fill my fermenter with 6 gallons  to ensure both peltiers are below the water. On a future build, I'd either space the CPU coolers on the aluminium block closer together (like the Stout Tanks kit), or I'd build 4x individual cold plates around the body of the conical.
@@ -241,7 +241,7 @@ Proposed improvement:
 5. Find a way of affixing the PSU and temperature controller box to the conical, rather than having them freestanding. Again, no big deal - just a nice tweak. 
 
     
-### Conclusions
+###  Conclusions
 Overall, I'm very pleased to have gone the peltier cooling route. It suits my needs - particularly the size constraints. 
 If I lived in a house, or had easy access to a basement, I might not have gone this route. I'd much rather use a large old fridge or chest freezer to control temperature - it'd be much cheaper, and no doubt easier to build! 
 None the less, I've no doubt this is something I'll continue to use wherever I live. It's so incredibly convenient to be able to set a temperature profile on the black box, walk away, and forget about the beer until fermentation ends.  
@@ -250,7 +250,7 @@ I'd strongly recommend this as an approach to temperature control - it's worked 
 
  
 
-### Further reading
+###  Further reading
 [1] Rob Swanson's guide, the document where this all started. [http://conical-fermenter.com/TemperatureControlledBuildSetup.pdf](http://conical-fermenter.com/TemperatureControlledBuildSetup.pdf)
 [2] Dan Curtis's guide, where I learnt how to do this. [https://dl.dropboxusercontent.com/u/1268608/Peltier%20Fermenter%20Cooling%20Project.pages](https://dl.dropboxusercontent.com/u/1268608/Peltier%20Fermenter%20Cooling%20Project.pages)
 

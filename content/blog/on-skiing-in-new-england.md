@@ -10,7 +10,7 @@ tags: ["blog"]
 I first started skiing shortly after I moved to the US, and I’ve been hooked on this sport since my first run down the mountain. My first opportunity to ski didn’t occur until the tail end of the 2013 season, and I didn’t get the chance to do much in the waning days of winter, but I’d definitely caught the bug. Mid-way thru this season, I was the lucky recipient of a pair of skis donated by a friend. After investing a frightening sum in boots and various other miscellaneous gear, it was time to go seek a return on this investment. What follows is my impression of various ski areas I’ve visited in New England – hopefully, when considering where to buy a lift pass for the 14/15 season, I can refer to this as my point of reference!
 
 
-# The Criteria
+#  The Criteria
 
 **Busyness **is an important factor – spending time in line waiting for the lift sucks.  
 **Quality** of the mountain – the terrain, the trails  
@@ -20,10 +20,10 @@ I first started skiing shortly after I moved to the US, and I’ve been hooked o
 **Approach **- Highways are typically well ploughed. Rural roads, not so much. Because I still think driving a rear wheel drive convertible through the winter in New England is a good idea.
 
 
-# The Mountains
+#  The Mountains
 
 
-## Wachusett Mountain, MA
+##  Wachusett Mountain, MA
 
 **![](http://res.cloudinary.com/cianclarke/image/upload/c_scale,w_496/v1396649291/wachusett_bqgbbl.jpg)Busyness **A major issue at Wachusett – even mid-week skiing can involve long waits for lifts, it’s biggest downfall.  
 **Quality** For a mountain so close to Boston, and barely a Mountain at that, it’s hard to complain about the terrain. Whilst the smallest of the mountains I’ve visited, it’s got just about enough terrain to keep me interested. The black diamond Smith Walton has a nice drop, with spectacular views. The green run, Sundowner, has some beginner terrain park elements I’m willing to brave, and some small and easy moguls.  
@@ -33,7 +33,7 @@ I first started skiing shortly after I moved to the US, and I’ve been hooked o
 **Approach **- Wachusett is right off a highway, so very easy get to even in snow. The parking lot has some icy sections, however.
 
 
-## Loon Mountain, NH
+##  Loon Mountain, NH
 
 **![](http://res.cloudinary.com/cianclarke/image/upload/c_scale,w_612/v1396649291/loon_he7v7m.jpg)Busyness **Loon seems to be one of the busiest of the New Hampshire mountains, with mid-week skiing still seeing some queues, and weekends perhaps a little too busy for comfort.  
 **Quality** The mountain has some exceptional trails, with excellent views. The trails are well maintained, and very well considered.  
@@ -43,7 +43,7 @@ I first started skiing shortly after I moved to the US, and I’ve been hooked o
 **Approach **- Less than a 5 minute drive from 93 North, despite it’s distance from Boston Loon is perhaps one of the easiest to drive to.
 
 
-## Gunstock Mountain, NH
+##  Gunstock Mountain, NH
 
 **![](http://res.cloudinary.com/cianclarke/image/upload/v1396649291/gunstock_y5vlkc.jpg "View from Gunstock Summit across the lake")Busyness **Having only visited once, on a Friday, the mountain felt fine. From talking to regulars on the lift, however, it sounded as busy, if not worse than Loon come the weekend.  
 **Quality** The views from the top of the summit lift are spectacular, with panoramic views of Lake Winnipesaukee. Hands down, this is the best view from summit of any of the resorts I’ve visited.  Despite the sheer size of the mountain, however, I found myself bored of the runs available by midday. Only the summit lift is high-speed, but after skiing the more exciting black diamond runs, re-entry is only possible to a painfully  slower lift – poor design. Many of the runs were closed on the Friday I visited, which was very disappointing.  
@@ -53,7 +53,7 @@ I first started skiing shortly after I moved to the US, and I’ve been hooked o
 **Approach **- Like Loon, most of the trip involves 93 North. From the exit, a trip of about 15 minutes mostly on route 3 takes you to Gunstock, on good roads for the duration.
 
 
-## Ragged Mountain, NH
+##  Ragged Mountain, NH
 
 **Busyness **I only visited once on a Saturday, the lift lines for the upper lift were long, and this didn’t sound abnormal.  
 **Quality** The trail map of Ragged Mountain suggests a huge mountain, but this I found deceptive. On-mountain, it doesn’t feel particularly big, and with only one high-speed lift, a lot of the terrain is a pain to get to. Many runs were closed the day I visited, but even those that were open were badly maintained and signposts were at times hard to follow.  
@@ -63,7 +63,7 @@ I first started skiing shortly after I moved to the US, and I’ve been hooked o
 **Approach **- Much alike Crotched, the approach to Ragged is on pretty poor roads. The overflow parking lots can be icy, with a small hill to exit.
 
 
-## Crotched Mountain, NH
+##  Crotched Mountain, NH
 
 **  
 ![](http://res.cloudinary.com/cianclarke/image/upload/c_scale,w_695/v1396649289/crotched2_bo3o1e.jpg "Crotched Mt. Freshly Groomed")Busyness **I visited Crotched twice, on both occasions the park feels almost empty. Even on Saturday, lines  
@@ -75,7 +75,7 @@ I first started skiing shortly after I moved to the US, and I’ve been hooked o
 **Approach **- The roads to Crotched are terrible. From 93, Crotched is a 45 minute drive on slow, atrociously bad roads. There’s a reason Crotched doesn’t get so busy – it’s isolated location, but perhaps that’s a price worth paying.
 
 
-# Conclusion
+#  Conclusion
 
 Although I’ve only visited a small number of New England resorts so far, I’ve visited those worth considering within <2hrs of Boston. Crotched remains a firm favourite due to it’s reasonable pass prices, and it’s lack of crowds. As a bonus, the mountain contains some of my favourite runs, and the lift staff and locals are incredibly friendly.  
  Wachusett’s proximity to Boston end up might overruling all of this when considering a season pass, which is a shame – but regardless, I’ll be sure to visit Crotched plenty more in future!

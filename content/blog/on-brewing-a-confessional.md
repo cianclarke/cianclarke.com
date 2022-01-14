@@ -64,13 +64,13 @@ I’ve probably produced ~14 successful 5 gallon batches of beer across my brewi
 
 Lastly, I’ll assume each recipe cost $50 in ingredients. This is a little on the high side, however most of my batches were brewed in Ireland.
 
-### Buying Beer Commercially
+###  Buying Beer Commercially
 
 Gallons of beer produced: ~70 US gallons = *265,000ml*  
  500ml Bottles  of beer produced: 265000ml/500ml = *530*  
  Cost in store of beer produced: 530*$3.46 = **$1833.8 of beer. **
 
-### Now, how much have I spent on equipment?
+###  Now, how much have I spent on equipment?
 
 Cost of ingredients over all batches: 50*(14+2)  = $800 (includes 2 failed batches)  
  Kegerator costs (total): $480  

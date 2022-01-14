@@ -13,7 +13,7 @@ tags: ["blog"]
 iBeacons are a low-power bluetooth device Apple quietly release as part of the iOS7 launch recently. They’re the Apple alternative to NFC, a small location aware device which developers can use to track user’s proximity to a location, and trigger various actions in a mobile app. Potential use cases include payments, exhibit information, proximity advertising and promotions (read: spam),  and many more besides. iBeacons are a departure from the normal way Apple deals with Hardware  – interestingly, any vendor is free to make iBeacons which will work with Apple SDKs. The devices are both simple and cheap, and it’s pretty easy to hack one together with a Raspberry Pi and a bluetooth receiver, or an old iPhone.
 
 
-## What is an iBeacon?
+##  What is an iBeacon?
 
 An iBeacon is a Bluetooth Low Energy device that transmits some important information back to a mobile device to identify it, and it’s location.
 
@@ -23,7 +23,7 @@ An iBeacon is a Bluetooth Low Energy device that transmits some important inform
 - **Proximity:** A number which identifies how close the beacon is – Far, Near or Immediate.
 
 
-## Identifying iBeacons
+##  Identifying iBeacons
 
 <span class="alignright">![](http://res.cloudinary.com/cianclarke/image/upload/c_scale,w_225/v1398957797/photo1_1_k7twsu.jpg)</span>
   
@@ -39,14 +39,14 @@ Now that you have the Proximity UUID, you can start ranging for iBeacons in your
  Taking note of this, and reaching into my developer toolkit, there’s two things I did. First,  we can construct a simple [switch statement that does special logic for each beacon](https://github.com/cianclarke/iBeacons-primer/blob/hardcoded-beacons/BeaconReceiver/ViewController.m#L82-L105) in our iOS app. Then, I use a very advanced piece of equipment known as a Sharpie, so I don’t mix up the beacons!
 
 
-## A note on Proximity
+##  A note on Proximity
 
 The proximity of these devices isn’t particularly precise. The near and immediate values in particular look to fluctuate quite rapidly. For accurate readings, some slightly more complex logic than illustrated in this example code may be needed in the [didRangeBeacons delegate function](https://github.com/cianclarke/iBeacons-primer/blob/hardcoded-beacons/BeaconReceiver/ViewController.m#L53), for example taking an average proximity across the last N calls.
 
 Another interesting observation I made was that across our three small offices, all adjacent, the ‘near’ value wasn’t wide enough to distinguish one from the other, and the ‘immediate’ value was too close to identify an office. It seems these devices don’t function well on such a small location scale.
 
 
-## Enter mBaaS
+##  Enter mBaaS
 
 We’ve hardcoded a few iBeacon Secondary IDs and the relevant responses for these in a switch statement – but let’s make this a little more dynamic. I’ve added my project to FeedHenry, and I’m going to make use of the FeedHenry Data Browser to set up a collection of iBeacons that I can easily mange. I’m also going to write [some simple cloud code](https://gist.github.com/cianclarke/272fae631ab34ac38161#file-beacons-js-L5-L19) to return an object of iBeacon minor ID key, object value pairs back to the client.
 
@@ -61,13 +61,13 @@ Here’s a video of it all in action:
 <iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/E9XkkeTpxNg?feature=oembed" width="640"></iframe>
 
 
-## How about Indoor Mapping?
+##  How about Indoor Mapping?
 
 One of the big implications of these new devices is their potential use for indoor mapping. Unfortunately, the usefulness of three beacon which can transmit no more than signal strength (and thus, in turn, an estimation of proximity as we use above) makes for a poor location monitoring device out of the box. I tried some simple triangulation logic, and took the beacons into the car park of our office. Although there was clearly some consistency in the (x,y) coordinate pairs I was receiving at each beacon, I found no correlation between the number range at each triangular point and a cartesian plane.  
  In summary: Unless you have a lot of time on your hands, or a higher level API becomes available for triangulating position based on iBeacons, it’s probably not worth the effort.
 
 
-## Conclusion
+##  Conclusion
 
 There are plenty of potential applications for this technology in retail, manufacturing, museums, healthcare, and more besides! Of course, this iOS demo app could be expanded to more advanced uses of the iBeacon SDK – but this quick example illustrates the concepts. Hopefully this primer shows how to get up and running with iBeacons, and illustrates how easy it is to manage these in the FeedHenry cloud.
 

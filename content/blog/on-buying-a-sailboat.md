@@ -12,7 +12,7 @@ One thing I hadn't quite anticipated was just how slippery a slope it would beco
 I'd always viewed sailors as a crew of posers, who liked to tie up dockside attired head-to-toe in Helly Hansen, pint in hand, never daring venture beyond the breakwater. Turns out there was more to it than this misconception..
 The idea of a form of propulsion that didn't cost several hundred dollars per hour to run is very appealing! Even more appealing is the skill involved in trimming a set of sails to glean optimal performance based on current wind direction, velocity, tides and current. It's a multi-dimensional, complex polynomial equation to be solved which takes a lifetime to perfect. Never did I think that zipping along at seven-and-a-half miles per hour could be so exhilarating .. 
 
-##Humble Beginnings
+## Humble Beginnings
 <span class="alignright">
 <img src="http://i.imgur.com/QsENV6Y.jpg" alt="CBI" style="width: 300px;">
 <br style="clear:both;"/>
@@ -23,7 +23,7 @@ Eventually, I had the sufficient *cajones* to take out their larger boats, and i
 
 In parallel, I'd realised there was more to sailing than the Charles River Estuary - Boston Harbor has some of the best daysailing grounds in the United States. I'd applied to volunteer crew on racing boats on a number of boards, and eventually somebody took pity on me (thanks, Ryan!). I started crewing on a 26' Thunderbird, racing out of South Boston. Most courses saw us sailing in the lee of Thompson Island, and Boston Harbor turned out to be infinitely more exhilirating than the Charles River Basin. That was it - time to buy a boat! 
 
-##The Criteria
+## The Criteria
 
 I wanted something comfortable for myself and Katharine to sleep on for short periods, at a price point which wouldn't be dehbilitating were we to discover we didn't much like crusiing. This first lead to a trailerable 22' boat, but this was quickly ruled out for two reasons: 
 One: Interior accomodations were akin to a tent on the water. It'd be nice to be able to stand up!
@@ -59,14 +59,14 @@ We launched, the boat didn't leak, and it spent a few days on a mooring at a Sou
 
 Now, the fun part - as with most of my blog posts, I'm happy to be an open book on the financials, since it's an interesting insight for anybody considering doing similar. What did all this cost? 
 
-##Costs
-###One-time:
+## Costs
+### One-time:
 **Base purchase price:** $11,500 (yep, $500 over budget)
 **Marine Survey:** $590  
 **Transport:** $990 *(50 miles, inc. splash & mast step)*  
 **MA Sales Tax:** $718  
 **Total cost:** $13,768
-###Yearly:
+### Yearly:
 **Mooring in Boston Harbor:** $2,800  
 **Insurance:** $568  
 **Tow-US Membership:** $175  
@@ -78,4 +78,3 @@ Hopefully before the 2016 season ends we'll get to spend a night or two on the b
 More on that as I have it!
 
 <img src="http://i.imgur.com/HVfVchQ.jpg" alt="Catalina 30" style="">
-

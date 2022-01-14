@@ -10,7 +10,7 @@ Last night, we enjoyed a sitting of the Tasting Menu at The Cliff House in Ardmo
  
 <small>*Some dishes may be best described with the assistance of the maître d', rather than Cian after a Gin Martini.</small>
 
-#The Courses
+# The Courses
 
 First, we started with an amuse-bouche of what was essentially a cream of onion soup of sorts. This also came with a selection of smaller bites: Beetroot Macaroons , Baby Potatoes and Broccoli puree'd in a soy gelatinous glaze.
 
@@ -54,12 +54,12 @@ Last was a chocolate course, 65%, so not too bitter - but tasted like no chocola
 ![SeaBuckthrorn](http://i.imgur.com/8HlzsNim.jpg)  
 ![Chocolate](http://i.imgur.com/eLigp7Wm.jpg)
 
-#The Service
+# The Service
 One of the points of contention for many in higher-end resteraunts is the level of excess to the service, veering towards pomp. I think a balance of attention to detail and subtlety  is important, and The Cliff House strikes the balance. 
 Nobody is insisting on pulling out my chair, or placing my napkin. 
 The courses arrived promptly, were described excellently, and all questions we fielded were answered politely and in detail.  
 
-# Worth it?
+#  Worth it?
 
 As before, the Tasting Menu at the Cliff House was probably the pinnacle of culinary experiences I've had. I can compare to several tasting menus in the United States, and confirm even some of the better-rated New York eateries (Vitae, Degustation) come close, but don't compare. The elusive star is a venerable standard, and the Cliff House certainly seems worthy. 
 Unfortunately, I can't compare another Michelin Star - yet. Michelin don't seem to rate Boston enough to visit, so I'll have to hunt out a comparable tasting menu in NY.

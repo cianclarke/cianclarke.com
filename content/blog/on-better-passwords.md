@@ -8,7 +8,7 @@ tags: ["blog"]
 
 Password restrictions are a constant pain in the ass. Most startup hipsters get this one right, but for every cool new startup, there's 10 websites with some archaic password restriction.
 
-##Word Based Passwords
+## Word Based Passwords
 The advent of password managers such as [OnePassword](https://agilebits.com/onepassword) have made it easier to have unique, compliant passwords for every site you visit, but password validation on these sites still sucks.  
 Wouldn't it be nice if we could use unique, but memorable passphrases for the sites we use the most?  
   
@@ -17,10 +17,10 @@ XKCD nailed it:
 
 Unfortunately, most password validation focuses on the former case in this XKCD comic, and doesn't allow for word-based password schemes. 
 
-##Validating for Both
+## Validating for Both
 Why not validate against both schemes - either the user provides a shorter, secure password, OR a word based password scheme with equal or greater entropy[1]?
 
-###Secure Passwords RegEx
+### Secure Passwords RegEx
 This regular expression is heavily based on [this Stack Overflow post](http://stackoverflow.com/questions/5142103/regex-for-password-strength).  
 It ensures:
 
@@ -35,7 +35,7 @@ This also validates a **length of between 8 and 128 characters**.
         
 You can [experiment with this regular expression in RegExr](http://regexr.com/3bhtb) to see it in action, and have each clause explained. 
 
-###Word-based Passwords Regex
+### Word-based Passwords Regex
 This regular expression allows for word-based passwords. 
 It ensures:
 
@@ -51,7 +51,7 @@ It ensures:
     
 You can [experiment with this regular expression in RegExr](http://regexr.com/3bht8) to see it in action, and have each clause explained.
 
-###Combining the two
+### Combining the two
 We could, of course, combine the two in big capturing groups separated with OR - but this does get very unwieldy: 
     
     ^((?=.{19,128})(([a-zA-Z]+)(-|_| |[A-Z])){3,10}[a-zA-Z]+)|(^(?=.*[A-Z])(?=.*[\W])(?=.*[0-9])(?=.*[a-z]).{8,128}$)$
@@ -71,7 +71,7 @@ Of course, I might be missing some glaring security case, or perhaps my regular 
 
 
 
-#Further Reading
+# Further Reading
 [1] (http://csrc.nist.gov/publications/nistpubs/800-63/SP800-63V1_0_2.pdf)[http://csrc.nist.gov/publications/nistpubs/800-63/SP800-63V1_0_2.pdf]  
 Appendix A provides a description of calculating password entropy.   
 [2] [https://www.owasp.org/index.php/Authentication_Cheat_Sheet#Implement_Proper_Password_Strength_Controls](https://www.owasp.org/index.php/Authentication_Cheat_Sheet#Implement_Proper_Password_Strength_Controls)  

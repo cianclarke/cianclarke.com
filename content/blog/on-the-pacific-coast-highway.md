@@ -13,7 +13,7 @@ tags: ["blog"]
 **(US) Gallons fuel: **39
 
 
-## San Diego
+##  San Diego
 
 When the need arose for me to travel to a trade show in San Diego, needless to say I was delighted. No amount of booth duty could stop me from exploring San Diego as best I could.  
 ![](http://res.cloudinary.com/cianclarke/image/upload/c_scale,w_400/v1408325376/IMG_0161_esmabo.jpg)I was incredibly lucky to be staying in the Manchester Grand Hyatt, on the 30th floor with the most incredibly views of the city.  
@@ -26,7 +26,7 @@ San Diego is a fantastically laid back city, clean, with a hopping downtown scen
  I began my journey on the most densely populated section of the highway between San Diego and LA, stopping along the route only at Laguna Beach to take in the beach, and have a break from driving.
 
 
-## LA & Mid-Coast
+##  LA & Mid-Coast
 
 ![](http://res.cloudinary.com/cianclarke/image/upload/c_scale,h_400/v1408453785/IMG_0225_t50s4m.jpg)  
 Griffith Observatory – exactly where GTA said it would be
@@ -53,7 +53,7 @@ After dismissing LA, a brief canyon hop to the coast, stretching the Mustang’s
 Santa Barbera Pier
 
 
-## Santa Barbara
+##  Santa Barbara
 
 From Malibu, I continued up the stunning Californian coastline. The PCH still follows a reasonably close path to the pacific, and the ongoing views are to be commended. There’s also a climbing canyon road every five or so miles, each of which are petrol head heaven in their own right. The next stop off the highway was Santa Barbara, first the wharf. It’s a nice walk to the end, with a plethora of tourist traps to occupy the bored – I can attest the Pecan Praline ice cream is good.
 
@@ -74,7 +74,7 @@ Since this wasn’t an option, I found dinner at a Korean BBQ, in search of a sp
  The food was just the right amount, and perfectly cooked. There goes that theory, then..
 
 
-## Big Sur
+##  Big Sur
 
 A 7am start the next morning put me motoring back towards the coast, away from this dull inland section of the highway. Rejoining the coast at Morro Bay, the scenery gets a little more interesting. The coast along this section is relatively flat. The next interesting detour came in the form of an elephant seal habitat. Apparently the world’s elephant seal population 20 years ago was near-on extinct, but after a successful breeding program, Piedras Blancas Rookery alone has a population of over 17,000 seals.  
  These guys are like no other seal I’d seen – an average of 16ft long, and 500lbs. Their stench is also noticeable, it’s a sight best encountered on an empty stomach.

@@ -10,7 +10,7 @@ After Cambodia, it was back to Bangkok for a few days. My travel companions from
 
 During our time in Thailand we visited the two largest cities - Bangkok and Chiang Mai. 
 
-##Bangkok
+## Bangkok
 Bangkok is a city as international as they come, with  expensive shopping districts, where brand name clothing seem to cost even more than Boston, and alleys of street food where plenty of locals meet. 
 
 As we started our tour of the city, we discovered we had arrived on an auspicious day: Loi Krathong, the Festival of Light. The celebration took place at night, and consisted of the locals placing little rafts of flowers and candles in all local bodies of water - quite cool to see. 
@@ -28,7 +28,7 @@ The view from [Sky Bar](http://www.tripadvisor.com/Attraction_Review-g293916-d58
 One thing which surprised me about Bangkok (and Siam Reap, Cambodia) was a hipster coffee house culture to rival even Brooklyn. Italian made, polished chrome coffee machines serving espresso (with beans sometimes roasted in-house) were bountiful, more so than in many cities in the US. 
 I'd love to know what spurs this urban coffee renaisance, as outside of major cities, god-awful freeze-dried instant coffee (frequently including imitation coffee syrup) were the norm. 
 
-##Chiang Mai
+## Chiang Mai
 Chiang Mai was a sharp contrast to Bangkok. The city is far smaller, cleaner - and also with less glitz, glamour, or drama. 
 
 Chiang Mai lacks a true skyline. The heart of the city is the old town, surrounded by city walls and a moat. The newer part of the city expands outwards from the old town. It made for a welcome change from Bangkok.

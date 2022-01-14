@@ -29,13 +29,13 @@ When you present in an auditorium with capacity for ~2,000 people, this introduc
 * The Cameras
 * The Storyboard
 
-## The Script
+##  The Script
 The first is obvious. Of course, it’s important to follow the script we’ve been rehearsing. This means not only speaking coherently and at the right tempo (something that’s still a work in progress for me!), but this also means staying on-brand. “FeedHenry" is now known as the “Red Hat Mobile Application Platform”, and remembering the new name after calling it something else for four years is a challenge for me.
 
-##The Cameras
+## The Cameras
 In an auditorium of this size, there are numerous cameras to capture the action, including one on stage with us. Having a camera in such close proximity during a live demo introduces some unique considerations, including: tilting the smartphone and wearable device at odd angles so the on-stage camera could capture the screen, keeping the screen tap touches brief so the content was always visible, and finally cleaning devices with screen wipes between shots.
 
-##The Storyboard
+## The Storyboard
 
 <span class="alignleft">
 ![Each scene had an associated audiovisual storyboard mapping what-shows-where](http://i.imgur.com/8eubn2im.jpg)  <br style="clear:both;"/>

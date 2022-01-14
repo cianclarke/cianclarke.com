@@ -16,14 +16,14 @@ To be entirely honest, this beer in bottle form is nothing special. Like a lot o
 I’ve had some comparable beers in the US, always on cask. Typically it’s a moderate, low-mid-bitterness IPA which has been put to cask, but the lack of that Maris Otter base malt disappoints. By the nature of cask beer, with its short shelf, Comeragh Challenger will likely never make it to the US in its perfect form. It’s time for action!
 
 
-## The Clone
+##  The Clone
 
 I’ve tried to reverse engineer Comeragh Challenger as best I could. The web site entry tells us much[1]. First, as the name suggests, the bitterness comes from not Comeragh Hops (that’d be impressive), but Challenger Hops. Most English Bitters are brewed with Marris Otter, and some English Crystal malt for colour – a @dungarvanbrewco tweet verifies this[2]. Lastly, Boston water is incredibly soft. Dungarvan water, and the water where English Bitters are traditionally brewed is quite the opposite, so I’ve altered the water profile from my Boston tapwater by adding some Calcium Sulfate.
 
 My first attempt of this recipe used some Maris Otter liquid malt extract, as I hadn’t yet developed the confidence in my All Grain technique – but here’s the All Grain recipe I’ll be trying next batch:
 
 
-## The Results
+##  The Results
 
 Most of the 5 gallon batch 4 gallons thereof was kegged with relatively low carbonation, as suits the style. The last gallon I carbonated naturally with some table sugar in a plastic ‘cubetainer’ – a bit like a cask.  
  Contrary to advice, I didn’t vent this container at any point – risking a nasty explosion, but kept it in a bucket to be safe.  

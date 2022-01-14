@@ -10,7 +10,7 @@ tags: ["blog"]
 A friend of mine recently purchased a 2005 Land Rover Defender 90 TD5. The vehicle had a full Land Rover service history, minimal milage, and was in absolutely mint condition. Here’s some impressions of the vehicle.
 
 
-## Exterior
+##  Exterior
 
 <span class="alignleft">
 [![](http://res.cloudinary.com/cianclarke/image/upload/h_300,w_259/v1382804186/Screen-Shot-2012-08-27-at-22_15_54_gejpst.png "Defender 90")](http://res.cloudinary.com/cianclarke/image/upload/v1382804186/Screen-Shot-2012-08-27-at-22_15_54_gejpst.png)</span>
@@ -24,7 +24,7 @@ Curves are limited to the roof and bonnet line – elsewhere, it’s all flat 
 The overall package is beefy, masculine and intimidating – but not to the point of tack. It’s a timeless design, which stands the test of time and to this day stands out against its competition.
 
 
-## Interior
+##  Interior
 
 <span class="alignright">[![](http://res.cloudinary.com/cianclarke/image/upload/h_180,w_300/v1382804184/Screen-Shot-2012-08-27-at-22_18_33_aftrwu.png "Defender Interior (library photo)")](http://res.cloudinary.com/cianclarke/image/upload/v1382804184/Screen-Shot-2012-08-27-at-22_18_33_aftrwu.png)</span>
 Unsurprisingly, the interior could best be described as utilitarian. It’s also incredibly functional. Heater controls are odd levers located either side of the steering column. Additional ventilation into the cabin is offered by air vents which open straight into the outside world, providing a torrent of fresh air at speed. Awesome!
@@ -36,7 +36,7 @@ The rear provides bench seating for four, surprising considering most vehicles o
 The only minor complaint inside is the driving position. Front seats seem to lack any comfortable resting place for the arm nearest the door, leaving it awkwardly wedged against the window.
 
 
-## On The Road
+##  On The Road
 <span class="alignleft">
 [![](http://res.cloudinary.com/cianclarke/image/upload/h_109,w_300/v1382804182/Screen-Shot-2012-08-27-at-22_19_49_q8y2w6.png "Defender and Discovery parked")](http://res.cloudinary.com/cianclarke/image/upload/v1382804182/Screen-Shot-2012-08-27-at-22_19_49_q8y2w6.png)</span>
 The thing that most surprised me about the defender was just how tame it is on the road. The suspension is not excessively harsh, and is comfortable even on long journeys.
@@ -49,7 +49,7 @@ The clutch in the Defender is particularly stiff – at first, gear changes leav
 The only major downside to the defender on the road is the turning circle – it really is abysmal. Tight paralel parking is out, and even moderate sized bay car parks are a challenge. 3-point turns become 5, minimum.
 
 
-## Off The Road
+##  Off The Road
 
 <span class="alignleft">[![](http://res.cloudinary.com/cianclarke/image/upload/h_178,w_300/v1382804179/Screen-Shot-2012-08-27-at-22_20_54_oe1kef.png "Screen Shot 2012-08-27 at 22.20.54")](http://res.cloudinary.com/cianclarke/image/upload/v1382804179/Screen-Shot-2012-08-27-at-22_20_54_oe1kef.png)</span>
 Unsurprisingly, the defender is near undefeatable off road. It absolutely lives up to, and perhaps exceeds its reputation.
@@ -59,7 +59,7 @@ What strikes me most is just how approachable the Defender is as a 4×4, even 
 <span class="alignright">[![](http://res.cloudinary.com/cianclarke/image/upload/h_151,w_300/v1382804181/Screen-Shot-2012-08-27-at-22_21_04_bnapds.png "Defender on Ballyvoile")](http://res.cloudinary.com/cianclarke/image/upload/v1382804181/Screen-Shot-2012-08-27-at-22_21_04_bnapds.png)</span>
 
 
-## To Conclude
+##  To Conclude
 
 My initial expectations for the Defender could be summarised in one word: impractical. I’d expected cabin noise, panel rattle and thirsty, sluggish performance. What the Defender delivers is the complete opposite. The Defender proves itself a perfectly viable daily driver. The turning circle rules out the Defender as a city car, but that shouldn’t be the target market. For a versatile vehicle off and on the road, the defender would absolutely be my 4×4 of choice.
 

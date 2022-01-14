@@ -13,12 +13,12 @@ My current tap list
 BeerSmith seems to have established itself as the most popular recipe construction & inventory management system available to brewers. Unfortunately, this information contained within the product is not normally available to end users in an easy-to-consume format.  
 I was interested in driving a website-based tap listing using BeerSmith rather than having to hard code onto my site, or use some other system. Here's how to achieve something similar to [the tap listing on my site](http://cianclarke.com/beers).
 
-##Prerequisites
+## Prerequisites
 1. BeerSmith 2
 2. Some place to deploy a Node.js application - we'll use an account on Heroku.
 3. A web site on which you can edit the HTML.
 
-##Setup
+## Setup
 1. The first thing needed is to make the BeerSmith recipes file publically accessible. I achieved this by moving my BeerSmith documents directory to DropBox, but any file syncing service should work, once you can access that file over some external web address. 2. 
 ![Change documents directory](http://i.imgur.com/gQXBAwl.png)  
 2. Once in DropBox, I navigated to the data directory, and copied a public sharing link for this file.  
@@ -47,8 +47,8 @@ Once completed, click the "View it" link. You should see a page full of funnily 
 You can now style the tap listing using CSS to your hearts content!  
 If you're a more advanced user who uses Node.js to build their site, you can also do some more advanced stuff with this - see the instructions on GitHub. 
 
-##See it in action
+## See it in action
 I'm using this on my personal website here: [http://cianclarke.com/beers](http://cianclarke.com/beers) I'm using the Node.js version, but with a little JavaScript knowledge similar could be achieved using the above code. 
 
-## What's next
+##  What's next
 Next, I'd like to try and add a route to the app which gets deployed in Heroku that returns a transparent PNG with the user's tap listing. This would allow people to embed their tap listing in places like online forums. If I don't get around to it, pull requests welcome!

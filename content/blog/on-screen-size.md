@@ -17,7 +17,7 @@ Plenty of papers exist illustrating that there is a direct correlation between p
  What follows is an attempt to categorise everyday activities and their optimum screen size.
 
 
-## 15″ (1440 * 900)
+##  15″ (1440 * 900)
 
 <span class="alignleft">[![](http://res.cloudinary.com/cianclarke/image/upload/h_300,w_300/v1382804190/15_e9x2fe.jpg "15"")](http://res.cloudinary.com/cianclarke/image/upload/v1382804190/15_e9x2fe.jpg)</span>
 It comes with the laptop –  so I best make the most of it!  
@@ -25,7 +25,7 @@ It comes with the laptop –  so I best make the most of it!
 **Avoid:** Git merges, of any sort, are very difficult on a laptop screen. Writing code for a prolonged period of time can be painful.
 
 
-## 22″ (1900*1200)
+##  22″ (1900*1200)
 
 <span class="alignright">[![](http://res.cloudinary.com/cianclarke/image/upload/h_228,w_300/v1382804189/22_rwr43g.jpg "22"")](http://res.cloudinary.com/cianclarke/image/upload/v1382804189/22_rwr43g.jpg)</span>
 The next step up – I’ve found a 22″ monitor sufficient for the majority of day to day tasks. The only limitation I’ve found is incredibly complicated merges covering a large portion of the codebase. I often combine plaintext merge with a visual difftool to get the greatest picture of what’s changed. It’s times like these I find myself pining for more real estate.  
@@ -35,7 +35,7 @@ The next step up – I’ve found a 22″ monitor sufficient for the majority of
 **Avoid:** Very complicated merges – need more real estate if possible!
 
 
-## 27″ (2560*1440)
+##  27″ (2560*1440)
 
 <span class="alignright">[![](http://res.cloudinary.com/cianclarke/image/upload/h_229,w_300/v1382804188/27_nxwxh2.jpg "27"")](http://res.cloudinary.com/cianclarke/image/upload/v1382804188/27_nxwxh2.jpg)</span>
 The ultimate. There’s not much which can’t be achieved on a 27″ monitor.  
@@ -43,7 +43,7 @@ The ultimate. There’s not much which can’t be achieved on a 27″ monitor.
  Code reviewing is even better. No matter how wide a line goes, side by side diff still works beautifully. Video looks amazing, although anything less then 720p and you’ll be seeing pixels.  
 **Avoid:** Smudges.
 
-## More?
+##  More?
 
 I’ve been trying for some time to formulate some justification for a second 27″ monitor, but truth be told, I’ve been struggling. Perhaps every once in a blue moon when I’m authoring a large project in iMovie, I’ve longed for a little more real estate.  Sure, it’d be insanely cool.  But would I *really* need another? *No. *
 

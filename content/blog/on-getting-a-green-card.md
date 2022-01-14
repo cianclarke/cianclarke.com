@@ -11,7 +11,7 @@ The most popular route for technology workers is to have their employer sponsor 
 
 Some of the steps involved may have cross-over with non-Diversity Visa cases, and any advice on interviewing at the Dublin Embassy applies for visas of all types - this was my third Embassy Interview, and all three were much the same. 
 
-##tl;dr
+## tl;dr
 
  * It's called the Diversity Visa.
  * Apply [here and here ONLY](https://www.dvlottery.state.gov) - many scam websites exist, look for `.gov` in the URL.
@@ -19,7 +19,7 @@ Some of the steps involved may have cross-over with non-Diversity Visa cases, an
  * No fees until accepted - Anywhere asking for $ is a scam
  * Good luck!
  
-## If Selected
+##  If Selected
 If you are selected, your notice will look like [this preview](http://travel.state.gov/content/dam/visas/eDV_Sample.pdf).
 Take note of your Case Number (CN) - you'll need this a lot! With only a 1.3% chance, it takes quite a degree of luck. Sorry.
 Use the Diversity Visa Status Check web site (same as [where you applied](https://www.dvlottery.state.gov)). 
@@ -34,7 +34,7 @@ You also have the option of taking an alternate route to me - "Adjustment of Sta
 I was advised this process would likely result in administrative delays, and Consular Processing (CP) in Dublin was a much safer option. 
 All of the following assumes CP.
 
-## Submit your Application form DS-260 online
+##  Submit your Application form DS-260 online
 This is a lengthly form which you should submit as soon as applications for this become open. 
 The most difficult part of this form is recalling every address you lived at - college residences, that 3 months abroad, anywhere you were resident.
 Any open questions you may have on this form are best addressed to an immigration attorney, but an alternate option is to trawl immigration forums such as ImmiHelp and Immigration.com for people who have asked this same question. 
@@ -44,7 +44,7 @@ Be grand.
 
 From this point onwards, you can check status on the [CEAC Status Check website](https://ceac.state.gov/ceacstattracker/status.aspx). Your Case Number is the CN above without any leading zeros - for example, `DV201500001234` would become `DV20151234`.
 
-##Prepare Supporting Documents
+## Prepare Supporting Documents
 This step is very [well documented](http://travel.state.gov/content/visas/english/immigrate/diversity-visa/if-you-are-selected/prepare-supporting-documents.html).
 In Ireland, "Police Certificates" are required. This should be your first port of call, as I found it rather difficult to get through to my local Garda Station. I had to resort to having my mother walk into the station while I was away, and request it. The certificate is little more than a letter stating you have not been convicted of anything which shows in the PULSE system. Mine was written in Comic Sans. Genuinely. 
 
@@ -55,14 +55,14 @@ If you do not have sufficient means, I believe something known as an "Affidavit 
 
 Ensure your passport is valid for a decent length of time, and there are no cracks or damage to the document, especially on the biometric photo page. 
 
-##Prepare for the Interview
+## Prepare for the Interview
 This is the most painful wait, as it may be some time until you are called for interview. For me, this period was over 12 months. Watch the Diversity Visa bulletins, which should give you ~2 months notice as to when your visa CN will become "current". 
 The status check website will tell you once selected for interview - I don't recall receiving any other notification. The Kentucky Consular Center may also be able to tell you over the phone when your interview date is some weeks in advance upon providing your CN. 
 You'll also need to schedule your medical. In Ireland, this takes place in the Blackrock Clinic. This is expensive - some €395. At the time I applied, it was only possible every Wednesday, and it needs to take place at least 7 days before your actual visa interview, ideally longer. 
 Once completed, the medical is valid for 6 months - you need an interview date within this period.
 Bring any records of immunisations you may have, but if these are missing, fear not - the fee includes any top-up shots that may be required.
 
-##The Interview
+## The Interview
 You'll need to bring the documents from your medical exam to the visa interview, along with all other supporting documentation you prepared. I wore a suit to all my interviews - and I never wear a suit, I generally loose credibility in a suit! For this, I made an excpetion. 
 When visiting the U.S. Embassy in Dublin, you can park on the street in Ballsbridge for up to 3 hours. Top up the meter to the full 3 hours - you may have a long wait, and it beats getting clamped. 
 Don't bring any bags to the embassy if possible (it'll save you hassle), and remember to bring some (paper) reading material. All electronic items will be held at the guardhouse. 
@@ -72,18 +72,18 @@ You'll first pay the immigrant visa fee (in this case, $375), then wait to be ca
 Lastly, the staff at the Dublin Embassy have never been anything but incredibly helpful to me in my previous dealings. 
 It should go without saying that you should present yourself incredibly politely & courteously. 
 
-##After The Interview
+## After The Interview
 Once complete, the Consular Officer will likely be able to tell you if your application was a success, and within what timeline to expect your passport to be returned. You can use the CEAC status check to track progress here also. 
 They will also present you with a sealed envelope which you will be told not to open.
 
 At this point, things didn't go according to plan for me. The Federal Government system for processing visas went offline for 3 weeks, causing extreme delays to the processing of all cases. Hopefully this doesn't happen to you!
 
-##Entering the United States
+## Entering the United States
 You need to enter the US within 6 months. Thankfully all flights in Ireland pre-clear at Point-of-Entry (Shannon and Dublin). 
 Leave an extra 30 mins to process compared to normal. When you present to U.S. pre-clearance, you will present your Immigrant Visa in your passport, along with the envelope from the embassy. 
 You'll be likely taken aside, and be told to wait - it took me roughly 15 mins. They will apply a stamp to your passport, and this becomes your Green Card until the physical card arrives in the post. 
 
-##The Costs
+## The Costs
 I managed to save quite a lot of money by processing this without the assistance of an attorney, but it takes work.
 If resident in the US, and processing via CP, expect to take at least one transatlantic flight booked at late notice and at great cost. I had two, driving up costs. 
 

@@ -14,19 +14,19 @@ With the aid of a network attached Apple Time Capsule (one of the most important
 Here’s the rough steps taken:
 
 
-## 1) The Final Backup
+##  1) The Final Backup
 
 Back up one last time to time capsule. Verify nothing critical is being excluded by checking the exluded folders list from your Time Machine settings. As an example – I excluded my SteamApps folder, as the game content files can be downloaded almost as quick as a copy across the network!  
  Also, install any system upgrades available to you. I had a nerve wracking thought that I’d locked myself out of my iTunes library when my new OS had iTunes 11 – turns out it was fine, but just incase.
 
 
-## 2) Wipe & Install
+##  2) Wipe & Install
 
 Restart your machine, holding CMD + R. This opens the recovery console. From here, open the disk utility and re-format your Mountain Lion partition. Then, re-install Mountain Lion. This is well documented on [Apple’s support KB.](http://support.apple.com/kb/PH11273)  
 *Protip: Make sure your time capsule backup is complete. Ensure your Time Capsule is not dropped, burnt, burgled, or even touched for the next 24 hours – it’s likely the only copy of your digital life.  *
 
 
-## 3) Enjoy virgin OS bliss.
+##  3) Enjoy virgin OS bliss.
 
 A new start! Setup any of the system preferences you can’t live without. For me, this was:
 
@@ -36,9 +36,9 @@ A new start! Setup any of the system preferences you can’t live without. For m
 - Keyboard key repeat and delay set to max
 
 
-## 4) Let the copying commence.
+##  4) Let the copying commence.
 
-### Preferences
+###  Preferences
 
 Copy your application support files from your time capsule to your local library. This means connecting to your time capsule, and finding the latest backup directory (usually aliased as ‘latest’). This will be something like:
 
@@ -60,7 +60,7 @@ I cherry picked those config files I needed, as I didn’t want any bloat. This 
 
 open ~/Library
 
-### Media
+###  Media
 
 There’s your system prefs copied – next up is the rest of your home folder. For me, again I picked what I really needed, basically the core home folders that come with a mac:
 
@@ -73,23 +73,23 @@ There’s your system prefs copied – next up is the rest of your home folder. 
 
 Everything else was in Dropbox. This will probably take 12-24 hours to do if you’ve a lot of media.
 
-### Keychain
+###  Keychain
 
 The OSX keychain makes copying my stored usernames and passwords, along with my developer signing resources and certificates, really simple. All I had to do was copy everything from $TIME/~/Library/Keychains to my new install’s ~/Library/Keychains, replacing the login keychain.
 
-### Bash Profile
+###  Bash Profile
 
 If you use your command line a lot like me, you’ll need the contents of your bash profile – for me, this was a case of copying $TIME/~/.bash_profile to ~/.bash_profile  
  Yours might be called .profile.
 
-### Hosts File
+###  Hosts File
 
 Since I connect to a lot of VPN’d endpoints in work, I have a lot of host file entries to provide nicer alises to these. I had to do this one through the command line – I CD’d into the directory on my Time Capsule and copied.
 
 cd $TIME/etc sudo cp hosts /etc/hosts
 
 
-## 5) Reinstall Applications
+##  5) Reinstall Applications
 
 Now that the copy operations are underway, it’s time to reinstall your apps. For me, these came from three sources.  
  The first source of apps, open the Mac App Store and open the Purchases tab. For me, this allowed me to reinstall:
@@ -123,7 +123,7 @@ For me, this was:
 <div><span style="font-size: medium;"><span style="line-height: 24px;">In these cases, I copied the respective entries from $TIME/Applications to /Applications. I also needed to copy their files in the Application Support directories in both $TIME/~/Library/Application Support and also $TIME/Library/Application Support (the root level Library, not the one associated with my user account), to the local equivalents (~/Library/Application Support and /Library/Application Support). </span></span></div>Webstorm also needed some files from ~/Library/Preferences also.
 
 
-## 6) Reinstall iLife components
+##  6) Reinstall iLife components
 
 If you have a very recent mac, your copy of iLife components are likely associated with your Mac App Store account. If, like me, these don’t show up in the previous step, and you’ve left your OS discs in the office, here’s what you need to do.
 
@@ -140,14 +140,14 @@ If you have a very recent mac, your copy of iLife components are likely associat
 That’s it – you should now have a working iPhoto (and hopefully iLife) install.
 
 
-## 7) Repair Disk Permissions
+##  7) Repair Disk Permissions
 
 On a fresh install? Really? Yep – after all that copying, chances are a lot of the system config and preferences folders haven’t the right CHMOD permissions or CHOWNership. Nothing a quick “Repair disk permissions” won’t fix!
 
 Disk Utility -> Select your OS disk -> Repair Disk Permissions
 
 
-##  Done!
+##   Done!
 
 That was it for me. I managed all this over the course of <24 hours. Of course, this would all be much quicker with a ‘Repair install’ over the existing OS, or a restore from Time Machine after installing – but I don’t think either would remove the bloat I’d been experiencing, so it’d have defeated the purpose. I’m now back to a ‘MVO’ – Minimal Viable OS!
 

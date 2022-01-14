@@ -9,7 +9,7 @@ tags: ["blog"]
 In the [day job](http://www.feedhenry.com/about/careers/senior-software-engineer-ireland/), we find ourselves integrating with SharePoint all the time. As is typical with Microsoft technologies, SharePoint is not really renowned for it's open APIs.   
 "**Share**"point doesn't really like to share.  
 
-##A SharePoint Primer
+## A SharePoint Primer
 <small>_(Skip this if you know about how SharePoint works)_</small>
 Here's the basics I wanted to know about this product before I began integrating:
 
@@ -18,22 +18,22 @@ Here's the basics I wanted to know about this product before I began integrating
   * Sharepoint 365 - the online SharePoint product. 
 * **Everything is a List** in SharePoint. Document Library? A list. The tasks app? Just a list. Discussion Board? You got it, it's a list. Site Pages? List. Turns out, SharePoint reuses the base type `List` for a lot of things. 
 
-##Bad APIs
+## Bad APIs
 SharePoint takes REST, and destroys it. It's tough to know where to begin, but we must start somewhere. 
 
-###Authentication
+### Authentication
 SharePoint allows authentication across a number of different schemas. Pretty typical of most enterprise software, and not in itself a valid complaint. 
 The issue arises when we encounter servers running NTLM as the authentication mechanism - horrific stuff.
 Then there's oAuth - only available via some access control manager service running separately in Azure. 
 Lastly, 
 
-###oData
+### oData
 oData is a protocol which builds upon JSON, by adding infinite strangeness to URL structure, and padding the data excessively. It's backed by a number of companies - SAP, Microsoft, and also my current employer. I'm not really sure why. 
 The web site lists example responses which are improperly indented. Worse still, these examples contain [invalid JSON](http://www.odata.org/getting-started/understand-odata-in-6-steps/). 
 
 SharePoint allegedly implements the oData protocol, but it seems to be a random hodgepodge of concepts from this standard. More on this later. 
 
-###Getting Lists: A Bad API Design
+### Getting Lists: A Bad API Design
 Microsoft were kind enough to give us a REST API, and considering this is from a company I know best for those massive WCF based SOAP service responses, and the wonderfully proprietary `.doc` format, this is a step in the right direction. So, how might we ask for a response in JSON?
 Surely it's just a matter of setting the header `Content-Type: application/json`?  
 Wrong! `Content-Type:application/json:odata=verbose`.
@@ -84,7 +84,7 @@ In our previous lists read results, we called it an `Id`! We never called it a `
     
 We'll get a response back that looks exactly like a single item from the list API above, so no point in examining this again.
 
-###Getting List Items: It Gets Worse
+### Getting List Items: It Gets Worse
 To me, probably the single most important thing in a SharePoint list is the items contained within. 
 To retrieve list items, we append `/Items` to our read result like this: 
     
@@ -98,7 +98,7 @@ However, the same is true of these things:
 That's a lot of potential API calls to get a full, comprehensive view of the list definition. 
 I have no idea what any of these things do. If you do, let me know in the comments? :-)
     
-### Creating, Updating & Deleting Lists: Rock bottom.
+###  Creating, Updating & Deleting Lists: Rock bottom.
 Now, let's see what's involved to create, update and delete a list. 
 Before we even try to update a list, we need to retrieve what's called a "context", which comes from the Context Info API. 
     
@@ -138,7 +138,7 @@ Similar for delete, `X-HTTP-Method: DELETE`, with no body.
 This is OData Method Tunneling at work - a nice workaround for clients which don't support `PUT`, `DELETE` like `<form>s` in web browsers. The idea is it's an alternative, however, and not the only option! Thanks, SharePoint. That's great - real great. 
 
   
-##Sharepointer: Making SharePoint Less Awful
+## Sharepointer: Making SharePoint Less Awful
 There's a few SharePoint modules already in existence for Node.js. I've used a few of them before, and built our first iteration of the RedHat Mobile SharePoint Connector based on one of these. 
 Unfortunately, none of these were appropriately unit tested, or supported multiple authentication technologies. In some, the full set of API operations wasn't supported.  
 In what I'd like to think was an act of "give back to the community", rather than "not written here syndrome", I give you [Sharepointer](http://www.github.com/cianclarke/sharepointer). 

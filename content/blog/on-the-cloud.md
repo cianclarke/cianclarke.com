@@ -15,17 +15,17 @@ The technological ecosystem that the cloud promises will offer the next evolutio
 The concept of the cloud is often misunderstood, but remarkably simple: a low-powered device connects to a distributed, remote, highly powerful backend which picks up the grunt of persistance and processing.
 
 
-## The Devices
+##  The Devices
 
-### <span class="Apple-style-span" style="font-size: 16px; line-height: 24px;">Along with the cloud revolution come a whole host of first generation devices trying to adopt the vision. What follows is an examination of the offerings of two major manufacturers with very different perspectives.</span>
+###  <span class="Apple-style-span" style="font-size: 16px; line-height: 24px;">Along with the cloud revolution come a whole host of first generation devices trying to adopt the vision. What follows is an examination of the offerings of two major manufacturers with very different perspectives.</span>
 
 
-## Google’s Take
+##  Google’s Take
 
 <span class="Apple-style-span" style="font-size: 16px; line-height: 24px;">First, there’s the Google Chromebook. Google truly get the concept – with it’s integrated 3G modem, the device is intended to be always connected, and as technology develops this is becoming an achievable goal. The device has limited storage, and instead encourages users to  compose documents in Google Docs and write code on a web-based IDE like Cloud 9. Persistance is in the cloud. If I run out of battery, spill a coffee all over the device, or the device gets stolen, what’s the matter? It’s in the cloud. They **get it**.The execution, however, is a whole different story. The entire user interface is centered around a web browser. Think having a Google Chrome window, and nothing else. That’s essentially it, and it doesn’t work. Multi-tasking never truly feels like multi-tasking, as it’s just a list of browser tabs. It feels unintuitive and unproductive. This isn’t the answer, and an OS in a browser is a backward devolutionary step.</span>
 
 
-## Apple’s Take
+##  Apple’s Take
 
 <span class="Apple-style-span" style="font-size: 16px; line-height: 24px;">Apple’s equivalent answer is the Macbook Air. The device is a beautiful paper thin piece of brushed aluminium, which still manages to be lightning fast. The UI is stunning – and why wouldn’t it be, it’s the same tried and tested OS that’s been running on it’s bigger brother Macs with years. It’s an incredibly usable, productive environment.  
  But it’s not cloud.  The Air doesn’t fare so well in the doomsday scenario presented with the Chromebook. The Air isn’t architected to be a cloud connected device – it’s an ultra-portable with an optional add-on cloud offering, Apple’s iCloud. While this enabled some degree of cloud connectivity, the offering is segmented and not all encompassing. You can store your iWork documents in the cloud, but nothing from the more popular Office for Mac suite. </span>
@@ -39,7 +39,7 @@ The solution doesn’t feel all-encompassing – it’s segmented. Why can I get
 Potentially, this is a restriction that is intrinsic to Apple’s walled garden approach. Maybe Apple aren’t going to win this one?
 
 
-## The Future
+##  The Future
 
 So what does the future hold for the cloud?  
  At Feedhenry, we’re busy filling the gap for mobile by creating a cloud layer where devices can communicate and share data whatever the platform. But what does the future hold for the desktop?  

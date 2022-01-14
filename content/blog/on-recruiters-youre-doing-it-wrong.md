@@ -60,7 +60,7 @@ Ask if they'd like to grab a coffee. I'm always up for grabbing a coffee with a 
 **Employees - Apply Direct**  
 Find a company you'd like to work for, and apply direct. A company should have much more leeway to pay you a higher salary when a recruitment agency isn't skimming their percentage off the top. 
 
-## Recruiters Can Work
+##  Recruiters Can Work
 The only recruiter I've ever seriously engaged with
 
 1. Contacted me about a highly relevant role to my skillset.  
@@ -71,7 +71,7 @@ The only recruiter I've ever seriously engaged with
 I replied, met with the CTO, interviewed, and ended with an offer. 
 Why has this only happened in one of the many thousands of emails I've received?
 
-##Stop doing it wrong
+## Stop doing it wrong
 All of these points seem painfully obvious to me, but yet these simple steps are almost exclusively ignored.
 You're wasting my time, you're wasting your own time.
 

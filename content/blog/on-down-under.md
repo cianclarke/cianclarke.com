@@ -13,7 +13,7 @@ The taxi trip into the city was through morning rush hour, but it did afford som
 I arrived at the hotel with time for a quick shower before a very jet-lagged first 10am meeting. 
 The day of meetings ended, I took a stroll around “The Rocks”, the district under the Harbour Bridge I was staying in - a fantastic neighbourhood of old buildings and mid-upmarket restaurants. 
 
-##Melbourne
+## Melbourne
 <span class="alignright">
 <img src="/gallery/Australia/Melbourne%20Skyline.jpg" alt="Melbourne Skyline" style="width: 300px;">
 <br style="clear:both;"/>
@@ -23,7 +23,7 @@ Wednesday saw us flying to Melbourne for some more meetings, and I hadn’t yet 
 At first, staying opposite the train station in a bit of a dumpy hotel had biased my opinion of the city - but after a few evenings walking about, I got a better feel for Melbourne. 
 The defining geographical feature of the city is the river flowing through, with a bike trail extending for miles (reminiscent of the Charles in Boston) which I’ll have to explore next time. The views from the top of Eureka Tower were spectacular, well worth the AUD$20 entry fee. The river-front development of the city is very well planned - it’s like an urban planner’s perfectly executed oasis. 
 
-##Great Ocean Road
+## Great Ocean Road
 <span class="alignleft">
 <img src="/gallery/Australia/Great%20Ocean%20Road%20from%2012%20Apostles%20overlook.jpg" alt="Great Ocean Road" style="width: 300px;">
 <br style="clear:both;"/>
@@ -35,7 +35,7 @@ This coastal drive was top of my list of things to do in Australia, and I was ve
 Lunch was in the coastal town of Apollo Bay, which had a nice stretch of coast, and a small working port. From there, it was on to the Twelve Apostles - an impressive vista, although admittedly also slightly underwhelming. Pales in comparison to the Cliffs of Moher or Big Sur (which I had visited just the previous week). 
 Next time, I’d do the Great Ocean Road again, but consider skipping the lengthy trek out to Twelve Apostles. 
 
-##Sydney
+## Sydney
 <span class="alignright">
 <img src="/gallery/Australia/Sydney%20Harbour.jpg" alt="Sydney Harbour" style="width: 300px;">
 <br style="clear:both;"/>
@@ -56,22 +56,22 @@ I enjoyed the path so much, I returned the day before flying out to swim. I was 
 The reef in the cove is part of a marine reserve, so there was an incredible amount of underwater life to observe considering how close this was to two very busy beaches. My Manly evening swim was the real highlight of the trip. 
 (At this point, it’s worth pointing out Manly is the name of a place, and not an attempt to assert masculinity)
 
-##Food & Drink
+## Food & Drink
 At this point, it’s worth digressing to discuss the food scene. As two cities which constantly top rankings for “liveability”, I had expected great things. While I’m still not sure if I was just unlucky, or not forking out enough $, but I was reliably disappointed at almost every turn. 
-####Meh:
+#### Meh:
 **Harrys Cafe de Wheels, Sydney**: Pies like you’d pick up at any service station in Europe. Reasonable prices, however an institution worth skipping.
 **Meat and Wine Company, Melbourne**: Distinctly un-memorable. The steak was slightly sub-par around the table, despite charging high-end steakhouse prices. 
 **Rump and Ribs, Manly**: All the ambience of a school cafeteria, albeit with better views. Poor bar menu, disappointing appetiser, but a great filet steak.  
 **Glenmore Hotel, The Rocks, Sydney**: Come for the drinks, skip the food all around. 
 
-####Seek out:
+#### Seek out:
 **Chin Chin, Melbourne**: Best meal I’ve had in some time. Best Short Rib I’ve ever had. Exceptional stuff.
 **The Boathouse, Manly**: A constantly packed beachfront restaurant - the only one this end of the coast walk in Manly. I had low expectations, but my humble burger & chips were fantastic (AU$19). Every other dish looked equally as good (if a little pricier), and great views to boot!
 **Pony, The Rocks, Sydney**: Unimaginatively presented chorizo appetiser, but a fantastic main. Other options on the menu also looked promising. Service was a bit crap.
 ..that’s all I could come up with after 2 weeks. The beer scene is similarly bleak, with craft beer in what appears to be its infancy. Here’s hoping this develops into something more, and my culinary experiences were just bad luck! 
  
 
-##Blue Mountains
+## Blue Mountains
 <span class="alignright">
 <img src="/gallery/Australia/Hiking%20in%20the%20Blue%20Mountains.jpg" alt="Manly Salt Water Pool" style="width: 300px;">
 <br style="clear:both;"/>

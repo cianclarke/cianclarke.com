@@ -10,7 +10,7 @@ I've been working on creating an API mapper for RedHat Mobile, the first phase o
 
 Some googling of "mikeal request raw request response" didn't yield results, so here's how I solved it.
 
-## Getting the Raw Response
+##  Getting the Raw Response
 This isn't so difficult - we first perform our request.
 ````
 var request = require('request'),
@@ -41,7 +41,7 @@ r.once('socket', function(socket){
   };
 });
 ````
-##Getting the Raw Request
+## Getting the Raw Request
 Here, it gets a little harder. As before, we construct our request - this time, let's do a POST to add the challenge of getting the response body. 
 The first thing we want is the request headers which get sent. 
 These are available to us under a "private" property (not really private, but not intended for our use - one prefixed with an `_`), which we can see once the socket gets assigned - `socket._httpMessage._header`.  
@@ -84,6 +84,6 @@ request.Request.prototype.write = function(data){
 };
 ```
 
-## Conclusion
+##  Conclusion
 So, a pretty nasty hack - but there we have it. Raw request & response text as it goes across the wire.  
 There's probably an infinitely better way of doing this by attaching to the stream which request exposes - if anybody knows what it is, let me know in the comments!

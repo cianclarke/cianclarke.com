@@ -12,7 +12,7 @@ PaaS, or “Platform as a Service” is a technology in it’s absolute infancy
 To begin with, I had to re-architect the app. Originally, Trendy was an AJAX website served by Apache. Only the twitter streaming portion was run under Node, and was written for Node 0.4.*. A natural choice was to rewrite the application using Express, EJS templates and Socket.IO. The app is now written for node 0.6, and all it’s dependencies and PaaS deployment settings are managed by NPM and a package.json file.
 
 
-## Criteria
+##  Criteria
 
 After rewriting the app, I had to find a place to deploy it. I drew up a shortlist of PaaS services to evaluate based on a set of criteria specific to my needs:
 
@@ -25,7 +25,7 @@ After rewriting the app, I had to find a place to deploy it. I drew up a shortli
 The perfect PaaS would fulfill all of the above. Bonus points for configuring additional stuff through package.json, and a nice list of bindable services for expansibility.
 
 
-## The Contenders
+##  The Contenders
 
 A shortlist of PaaS services that I’d come across in the past was drawn up, along with the input of some folk on Twitter. All the services I used were either public, or I already had an invite to. This is by no means an extensive list, and is instead an attempt to evaluate all the major players.
 
@@ -36,7 +36,7 @@ A shortlist of PaaS services that I’d come across in the past was drawn up, al
 - nodejitsu
 
 
-## CloudFoundry
+##  CloudFoundry
 
 [http://www.cloudfoundry.com](http://www.cloudfoundry.com)
 
@@ -52,7 +52,7 @@ Service bindings are handled through the CLI, or at deploy time, and although th
 Unfortunately, WebSockets are alas not supported, causing me to move on in search of a new PaaS.
 
 
-## Heroku
+##  Heroku
 
 [http://www.heroku.com](http://www.heroku.com)
 
@@ -66,7 +66,7 @@ But what’s this – no WebSocket support? Worse still, Heroku state “The Web
  Sure it is, but Heroku deals with an entire stack of rapidly changing technologies. Sorry, doesn’t cut it!
 
 
-## dotCloud
+##  dotCloud
 
 [http://www.dotcloud.com](http://www.dotcloud.com)
 
@@ -78,7 +78,7 @@ dotCloud’s documentation first suggests your entire application be wrapped wit
  After setting up the application & the relevant configuration files, it didn’t work out of the box. Onwards!
 
 
-## Joyent’s no.de
+##  Joyent’s no.de
 
 [http://no.de](http://no.de)
 
@@ -86,7 +86,7 @@ My first port of call when I began searching for NodeJs hosting over 12 months a
  This was a shame, as Joyent has full WebSocket support, and just so happens to be one of the coolest companies in the world right now! If I’m looking for commercial hosting, they’ll likely be a first port of call.
 
 
-## nodejitsu
+##  nodejitsu
 
 [http://www.nodejitsu.com](http://www.nodejitsu.com)
 
@@ -97,7 +97,7 @@ I had given up on my quest for the perfect Node PaaS, when a FeedHenry colleague
 The app worked out of the box first time, setup was a breeze, and the domain is pretty nice (trendy.jit.su). As a bonus, also offered is a sort of microcloud  to trial locally how your app performs under their environment. The only downside to nodejitsu is the lack of services to bind to. Trendy is a standalone Node app, but a lot of my projects recently have required an instance of Redis – I could see no simple way to do this on nodejitsu.
 
 
-## Conclusion
+##  Conclusion
 
 If I required bindable services, and didn’t need WebSocket support it’s likely I’d be returning to the old reliable of CloudFoundry. Both Redis and Mongo are available as free, bindable services within the PaaS, which is very appealing. For any future WebSocket projects though, it’s got to be nodejitsu.
 

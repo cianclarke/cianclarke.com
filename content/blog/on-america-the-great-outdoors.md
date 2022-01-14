@@ -13,7 +13,7 @@ Middlesex Fells
 Today, I hiked Middlesex Fells reservation. Or at least, I think I hiked. I’d rather consider it an 18km casual meander. When not clad in the latest of gore-tex and titanium North Face, I’d feel a bit of an impostor calling the activity hiking.  
  It was nice to see the wilderness the Boston Area has to offer, and in the latest of my “Observations of Paddy Irishman” series, here’s some thoughts.
 
-### America – land of the free.
+###  America – land of the free.
 
 <span class="wp-caption alignleft" id="attachment_383" style="width: 160px">[![No Swimming](http://res.cloudinary.com/cianclarke/image/upload/c_crop,h_427,w_427,x_106,y_0/h_150,w_150/v1382804089/IMG_7461_am2uol.jpg)](http://res.cloudinary.com/cianclarke/image/upload/v1382804089/IMG_7461_am2uol.jpg)  
 No Swimming
@@ -50,7 +50,7 @@ It gets worse – the trail continues inside the fence, but the inside circumfer
 Travelling to the eastern half of the reservation (which is, unfortunately, bisected north-south by the I93 highway), the land immediately bordering the reservoir is marked ‘Reservoir Property – No Access – Fines Apply’. The border is dotted with yellow warning signs threatening prosecution.  
  While I realise providing the public with access to the water supply of the city has a whole host of national security threats, I can’t help but wonder if a terrorist engaged in the act of biological warfare would be deterred by a few signs.
 
-### America – land of the brave.
+###  America – land of the brave.
 
 <span class="wp-caption alignleft" id="attachment_381" style="width: 160px">[![Fells Reservoir](http://res.cloudinary.com/cianclarke/image/upload/c_crop,h_427,w_427,x_106,y_0/h_150,w_150/v1382804092/IMG_7466_bcll0a.jpg)](http://res.cloudinary.com/cianclarke/image/upload/v1382804092/IMG_7466_bcll0a.jpg)  
 Fells Reservoir

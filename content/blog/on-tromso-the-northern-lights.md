@@ -48,7 +48,7 @@ The other is what’s termed the ‘Northern Lights Route’. This route follows
 <iframe frameborder="0" height="350" marginheight="0" marginwidth="0" scrolling="no" src="https://maps.google.com/maps?saddr=Tromso,+Norway&daddr=Skibotn,+Norway&hl=en&sll=69.708584,18.684998&sspn=0.247652,1.060181&geocode=FTXDJgQdPDwhASn9cTtsUsTERTHTvm6Ohco9Ag%3BFQ-XIgQdSX41ASmJ8uRNITbFRTHxGgV7cJ6AcA&oq=Skibotn&mra=ls&t=m&ie=UTF8&z=9&output=embed" width="425"></iframe> 
 
 
-## How much did it all cost?
+##  How much did it all cost?
 
 <span class="alignright">[![](http://res.cloudinary.com/cianclarke/image/upload/h_200,w_300/v1382804154/IMG_2086_jc2fhi.jpg "IMG_2086")](http://res.cloudinary.com/cianclarke/image/upload/v1382804154/IMG_2086_jc2fhi.jpg)</span>
 

@@ -8,7 +8,7 @@ tags: ["blog"]
 
 After three days in Chiang Mai, it was time to head south to Krabi. 
 
-##Krabi
+## Krabi
 We decided to spend a night in Krabi town before making the trek out to the island of Koh Lanta. We heard time and time again that Krabi is the best of the beach resort areas--not nearly as affected by the plight of tourism than the more populated Phuket. 
 Well, I'd hate to see Phuket, because Krabi is a real dump. The town is packed full of tourist orientated resteraunts serving western food, with little in the way of authentic experiences. 
 We found one dining establishment which was full of what appeared to be locals dining, and we had some great fresh seafood which we selected ourselves to have thrown on the barbeque. However, it wasn't particularly cheap! 
@@ -22,7 +22,7 @@ The scam-centric approach to tourism was back too, as bad as if not worse than B
 Local taxis are hard to come by, and often don't even have meters installed. 
 Then there's the long-tails..
 
-##Railay Beach
+## Railay Beach
 In pictures, Railay beach looks absolutely incredible - and it is, incredible looking at least - but first, you need to get there. 
 <div style="width: 100%; margin: 0;"><img src="/gallery/Asia/Thailand/IMG_1295.jpg" style="width: 100%;" alt="Railay Beach, Krabi"></div>
 That means finding a Long-Tail Boat driver to take you across the bay. Trip Advisor suggested finding a boat with some tourists already on board, and waiting for it to fill - but information beyond this was hard to come by. 
@@ -36,7 +36,7 @@ Of course, since we're now on a peninsula with access only by water, the Long Ta
 The boat operators opperate in a cartel, all agreeing on a fixed price to prevent any competition.   
 Railay? Avoid it..
 
-##Koh Lanta
+## Koh Lanta
 Our first impression of Koh Lanta wasn't the most positive - assaulted by hawkers agressively trying to sell us tuk-tuk and taxi rides across the island. 
 It was no surprise then, when somebody dressed in plain clothes with a shabby booth demanded a 10THB ($N.NN) "island cleaning fee", tried clinging on to me to make me pay, couldn't produce any official ID, and then promptly got dragged along the pier with me. 
 Turns out it was official - but hey, maybe it's time to clean up the hawkers?
@@ -52,7 +52,7 @@ We also travelled to the other side of Koh Lanta by scooter - seeing the old tow
 
 Koh Lanta ended up as one of the highlights of Thailand - it was an island with some beautiful, unspoiled corners. It was easier than most to access from Krabi, and well worth visiting. 
 
-##On Thailand
+## On Thailand
 After our time in Krabi, we're now departing for Vietnam. Thailand has been a mixed bag. 
 The tourism industry has been over-developed to the point of suffocation, something which has been very evident here in Krabi as they have a very quiet "high season". There's a tendency to treat tourists as subjects to be exploited, rather than something the local economy can collectively tap into. 
 I can't help but leave a little disappointed, especially by the small portion of coastal Thailand we saw. What we saw was far from the deserted tropical paradise we had envisioned. 

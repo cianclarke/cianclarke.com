@@ -64,7 +64,7 @@ _Boats docked at Srah Srang_
 <br style="clear:both;"/><br style="clear:both;"/>
 </span>
 
-##Costs
+## Costs
 **Entrace to Angkor Wat:** 1 day, $20. (3 day pass available for $30)  
 **1 day Bike Rental:** $4  
 **Lunch within the comfort of A/C: ** $7  
