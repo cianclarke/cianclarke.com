@@ -37,7 +37,8 @@ The most resounding difference for us was the locals - a much friendlier bunch, 
 
 It's by far the nicest city we've visited on our trip, and I'd gladly return.  
 
-<span class="alignright"><img src="/gallery/Asia/Thailand/IMG_0383.jpg" alt="Elephant Nature Park, Chiang Mai" style="width: 300px;"><br style="clear:both;"/>*Elephant Nature Park, Chiang Mai*</span>
+<span class="alignright">![Elephant Nature Park, Chiang Mai](/photography/asia/thailand/IMG_0383.jpg)  <br style="clear:both;"/>*Elephant Nature Park, Chiang Mai*</span>
+
 
 While staying in Chaing Mai we decided to take a day trip to visit to the [Elephant Nature Park](http://www.elephantnaturepark.org/). This trip was one of the real highlights of Thailand for the group.
 Elephant riding, and even other "sanctuary" day trips are quite common throughout Thailand. The Elephant Nature Park is a true sanctuary, where they take in animals rescued from less ethical conditions, often coming from the tourist trade.
@@ -48,6 +49,6 @@ A lot is said about how awful driving in Asia is, but honestly, it hasn't proved
 
 The other activity highlight was the Thai Farm Cooking School, where we learned how to cook a whole host of Thai dishes. Most impressive, everything we made was a resounding success!
 
-<img src="/gallery/Asia/Thailand/IMG_0319.jpg" alt="Hills behind Chiang Mai" style="width: 75%;">
+<img src="/photography/asia/thailand/IMG_0319.jpg" alt="Hills behind Chiang Mai" style="width: 75%;">
 <br style="clear:both;"/>
 *Hills behind Chiang Mai*

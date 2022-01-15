@@ -15,7 +15,7 @@ The day of meetings ended, I took a stroll around “The Rocks”, the district 
 
 ## Melbourne
 <span class="alignright">
-<img src="/gallery/Australia/Melbourne%20Skyline.jpg" alt="Melbourne Skyline" style="width: 300px;">
+<img src="/photography/australia/Melbourne%20Skyline.jpg" alt="Melbourne Skyline" style="width: 300px;">
 <br style="clear:both;"/>
 *Melbourne Skyline*
 </span>
@@ -25,28 +25,29 @@ The defining geographical feature of the city is the river flowing through, with
 
 ## Great Ocean Road
 <span class="alignleft">
-<img src="/gallery/Australia/Great%20Ocean%20Road%20from%2012%20Apostles%20overlook.jpg" alt="Great Ocean Road" style="width: 300px;">
+<img src="/photography/australia/Great%20Ocean%20Road%20from%2012%20Apostles%20overlook.jpg" alt="Great Ocean Road" style="width: 300px;">
 <br style="clear:both;"/>
 *Great Ocean Road*
 </span>
 After 3 nights in Melbourne, it was the weekend. I was renting a car, and spending it on the Great Ocean Road.
 This coastal drive was top of my list of things to do in Australia, and I was very pleased to find it was driving distance from Melbourne. The scenery is spectacular as the road curves around miles of almost empty sandy beaches, punctuated by small clusters of neoprene suited surfers. 
-<div style="width: 100%; margin: 0;"><img src="/blogpics/greatoceanrd.jpg" style="width: 100%;" alt="Moh Koh Lanta National Park"></div>
+<div style="width: 100%; margin: 0;"><img src="/photography/australia/Great%20Ocean%20Road.jpg" style="width: 100%;" alt="Moh Koh Lanta National Park"></div>
 Lunch was in the coastal town of Apollo Bay, which had a nice stretch of coast, and a small working port. From there, it was on to the Twelve Apostles - an impressive vista, although admittedly also slightly underwhelming. Pales in comparison to the Cliffs of Moher or Big Sur (which I had visited just the previous week). 
 Next time, I’d do the Great Ocean Road again, but consider skipping the lengthy trek out to Twelve Apostles. 
 
 ## Sydney
 <span class="alignright">
-<img src="/gallery/Australia/Sydney%20Harbour.jpg" alt="Sydney Harbour" style="width: 300px;">
+<img src="/photography/australia/Sydney%20Harbour.jpg" alt="Sydney Harbour" style="width: 300px;">
 <br style="clear:both;"/>
 *Sydney Harbour*
 </span>
 After returning from Melbourne, I was spending another 5 nights in Sydney while delivering a Red Hat Mobile training course.
 Every evening was free to explore the city, however, and I walked as much of the city as I could. The “winter” climate made for comfortable daytime temperatures, and even relatively balmy evenings. Walking along the water brought me to the Opera House, which I'll be filing under: "things I expected to be disappointing in person, but then weren’t". This waterfront path then leads to a beautiful park, the tip of which is Macquarie's Chair. From here, the sunset view is spectacular, cascading golden light over the Opera House and Harbour Bridge. 
-<div style="width: 100%; margin: 0;"><img src="/blogpics/operahouse.jpg" style="width: 100%;" alt="Moh Koh Lanta National Park"></div>
+  
+
 If the river is the defining geographic feature of Melbourne, for Sydney it’s the harbour. In Sydney, water is everywhere you look - and with good reason, since it is the world’s largest natural harbour. Residences (..at least, the nicer ones!) are based around the water, with many waterfront properties having a boat moored outside, some with private docks. 
 <span class="alignleft">
-<img src="/gallery/Australia/Salt%20Water%20Pool,%20Manly.jpg" alt="Manly Salt Water Pool" style="width: 300px;">
+<img src="/photography/australia/Salt%20Water%20Pool,%20Manly.jpg" alt="Manly Salt Water Pool" style="width: 300px;">
 <br style="clear:both;"/>
 *Manly Salt Water Pool*
 </span>
@@ -73,7 +74,7 @@ At this point, it’s worth digressing to discuss the food scene. As two cities 
 
 ## Blue Mountains
 <span class="alignright">
-<img src="/gallery/Australia/Hiking%20in%20the%20Blue%20Mountains.jpg" alt="Manly Salt Water Pool" style="width: 300px;">
+<img src="/photography/australia/Hiking%20in%20the%20Blue%20Mountains.jpg" alt="Manly Salt Water Pool" style="width: 300px;">
 <br style="clear:both;"/>
 *Hiking in the Blue Mountains*
 </span>

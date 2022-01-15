@@ -25,8 +25,7 @@ Of course, I didn't mention that I had never ridden a scooter before, so busy ci
 The night market proved particularly rewarding, feasting on a 3-course meal for 90 baht. 
 
 ## Khao Yai National Park
-<span class="alignright">
-![Heo Suwat Waterfall](http://i.imgur.com/xv5Y9sEm.jpg)  <br style="clear:both;"/>
+<span class="alignright">![Heo Suwat Waterfall](http://i.imgur.com/xv5Y9sEm.jpg)  <br style="clear:both;"/>
 *Heo Suwat Waterfall*
 </span>
 Over the course of the next two trips, I explored Khao Yai. The highlight of this was the Heo Suwat waterfall, a gentle walk downhill from the car park and well sign posted. 

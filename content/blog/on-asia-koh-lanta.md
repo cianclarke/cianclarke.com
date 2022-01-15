@@ -13,8 +13,7 @@ We decided to spend a night in Krabi town before making the trek out to the isla
 Well, I'd hate to see Phuket, because Krabi is a real dump. The town is packed full of tourist orientated resteraunts serving western food, with little in the way of authentic experiences. 
 We found one dining establishment which was full of what appeared to be locals dining, and we had some great fresh seafood which we selected ourselves to have thrown on the barbeque. However, it wasn't particularly cheap! 
 
-<span class="alignright">
-![Fishing Boat, Krabi](/gallery/Asia/Thailand/IMG_1372.jpg)  <br style="clear:both;"/>
+<span class="alignright">![Fishing Boat, Krabi](/photography/asia/thailand/IMG_1372.jpg)  <br style="clear:both;"/>
 *Fishing Boat, Krabi*
 </span>  
   
@@ -24,7 +23,7 @@ Then there's the long-tails..
 
 ## Railay Beach
 In pictures, Railay beach looks absolutely incredible - and it is, incredible looking at least - but first, you need to get there. 
-<div style="width: 100%; margin: 0;"><img src="/gallery/Asia/Thailand/IMG_1295.jpg" style="width: 100%;" alt="Railay Beach, Krabi"></div>
+<div style="width: 100%; margin: 0;"><img src="/photography/asia/thailand/IMG_1295.jpg" style="width: 100%;" alt="Railay Beach, Krabi"></div>
 That means finding a Long-Tail Boat driver to take you across the bay. Trip Advisor suggested finding a boat with some tourists already on board, and waiting for it to fill - but information beyond this was hard to come by. 
 After more than an hour wandering around in mid-day heat from pier to pier, we eventually found a collection of Long-Tail Boat Drivers. 
 Missing was the boat full of tourists waiting to depart - meaning we had to rent the full boat. 
@@ -46,7 +45,7 @@ Daylight confirmed - the nice section of the island is the branch off the main r
 
 We enjoyed a particularly memorable meal (and many happy hour cocktails) at Beaches/Breezey Bar/Peaches, (//TODO: peaches?) and in retrospect would have loved to have stayed at the hotel attached. 
 We also visited Moh Koh Lanta National Park - the scenery gets most impressive, the entry fee is low, and the view from the small elevation at the Lighthouse is well worth the climb. 
-<div style="width: 100%; margin: 0;"><img src="/gallery/Asia/Thailand/IMG_1330.jpg" style="width: 100%;" alt="Moh Koh Lanta National Park"></div>
+<div style="width: 100%; margin: 0;"><img src="/photography/asia/thailand/IMG_1330.jpg" style="width: 100%;" alt="Moh Koh Lanta National Park"></div>
 The stinging jellyfish larve were still present, but in much fewer numbers, and we even got a brief snorkelling session in on a small reef off the lighthouse. Watch the local monkey population however - they know how to open bags, and are truly vicious. We had to steer cleer of any wooded area when in the national park. 
 We also travelled to the other side of Koh Lanta by scooter - seeing the old town, and raised houses on the water (//TODO: GMAp link) where local fisherman and Long Tail drivers lived was refreshing from the tourist traps we encountered elsewhere. 
 
@@ -61,4 +60,3 @@ We also tried dining via the best of what Trip Advisor recommended - I'm normall
 Toward the end of the trip, we developed a more reliable metric - find the places both busy, and full of locals! 
 
 There's also some very authentic experiences to be had - Chiang Mai being the highlight. The locals were exceedingly honest and friendly, and the city was very clean. It was the perfect melting pot of local city and tourist hotspot, and I'd gladly return.  
-

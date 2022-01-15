@@ -6,9 +6,7 @@ draft: false
 tags: ["blog"]
 ---
 
-<span class="alignright">
-![Said Metal Tube](http://i.imgur.com/3FEP16Im.jpg)  <br style="clear:both;"/>
-*Said Metal Tube - Boeing Dreamliner*
+<span class="alignright">![Said Metal Tube](http://i.imgur.com/3FEP16Im.jpg)  <br style="clear:both;"/>*Said Metal Tube - Boeing Dreamliner*
 </span>
 The least enjoyable thing about a trip to Asia - especially from the East Coast of the United States - has to be the travel to and from. 
 First up is a 14 hour segment to Tokyo, the only consolation for which was the form the metal tube took - a Boeing 787 Dreamliner. 
@@ -28,8 +26,7 @@ On the plus side, after landing in Bangkok I realise there’s no need to adjust
 
 <br><br><br>
 
-<span class="alignright">
-![Ben & Jerrys for desert!](http://i.imgur.com/sDaVBjam.jpg)  <br style="clear:both;"/>
+<span class="alignright">![Ben & Jerrys for desert!](http://i.imgur.com/sDaVBjam.jpg)  <br style="clear:both;"/>
 *Ben & Jerry's for desert!!*
 </span>  Costs:
 Round trip, multi-city flight. 
@@ -39,4 +36,3 @@ Total: $958.29
 
 ![Storm front rolls in over Tokyo](http://i.imgur.com/YtkDSaG.jpg)  <br style="clear:both;"/>
 *Storm front rolls in over Tokyo*
-

@@ -12,8 +12,7 @@ I've become the quintessential millennial urbanite, and in true millennial fashi
 Why sell, you might ask?
 Living in Downtown Boston means very rarely is it necessary for me to drive - so much so that I found myself driving little more than twice a month. I prefer to walk, cycle, or take a cab - be it to meet with friends, go to dinner, or even the airport.
 
-<span class="alignright">
-![Bear Notch Rd](http://i.imgur.com/yUIEv6e.jpg)  <br style="clear:both;"/>
+<span class="alignright">![Bear Notch Rd](http://i.imgur.com/yUIEv6e.jpg)  <br style="clear:both;"/>
 *Bear Notch Rd - Arguably the greatest driving road in New England*
 </span>
 There's also this: The North East of the United States is so populous it leaves almost nowhere to stretch the car's legs. There are a few select, empty stretches of road in rural New Hampshire, a 2-hour drive away - but nothing on my doorstep comparable to what I had in Ireland. This has drastically eroded my petrol-fueled desires.
