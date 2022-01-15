@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        {{ block "head" . }}
+        {{ partial "head/metadata.html" . }}
+        {{ if .Site.Params.plausible }}{{ partial "head/plausible.html" . }}{{ end }}
+        {{ partial "head/openGraph.html" . }}
+        {{ partial "head/favicons.html" . }}
+        {{ partial "head/css.html" . }}
+        {{ end }}
+        <!-- Include page specific css -->
+        {{ block "customCSS" . }}
+        {{ end }}
+    </head>
+    <body>
+        <section id="top" class="hero">
+          <div class="hero-head">
+                
+                
+            <div class="container">
+              {{ partial "nav.html" . }}
+
+            </div>
+          
+          
+            <!-- Begin Title -->
+            <div class="container hero">
+                {{ block "title" . }}
+                <h1 class="bold-title is-1">{{ .Title | markdownify }}</h1>
+                {{ end }}
+            </div>
+            <!-- End Title -->
+            <div class="section">
+                
+
+                {{ block "main" . }}
+                {{ end }}
+
+                {{ block "footer" . }}
+                {{ partial "top-icon-with-hr.html" . }}
+                {{ partial "footer/text.html" . }}
+                {{ end }}
+            </div>
+        </section>
+        {{ block "js-include" . }}
+        {{ partial "footer/scripts.html" . }}
+        {{ end }}
+        <!-- Include page specific scripts -->
+        {{ block "customScripts" . }}
+        {{ end }}
+    </body>
+</html>
