@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="container">
+  <section>        
+        <h2 class="title is-2 top-pad">Statistics</h2>
+        {{ .Content }}
+      </section>
+</div>
+
+<div id="sailingstats" class="container">Statistics loading...</div>
+
+
+{{ partial "js/sailing.html" . }}
+{{ end }}

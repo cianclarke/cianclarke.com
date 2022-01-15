@@ -4,4 +4,4 @@
   HUGO_VERSION = "0.92.0"
 [dev]
   framework = "hugo"
-  command = "hugo server -w"
+  command = "hugo server --disableFastRender"

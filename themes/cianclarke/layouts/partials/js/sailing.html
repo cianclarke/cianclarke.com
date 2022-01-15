@@ -1,0 +1,57 @@
+
+<script>
+  const rowTemplate = `
+<nav class="level">
+  $ENTRIES
+</nav><hr />
+`;
+  const itemTemplate = `
+<div class="level-item has-text-centered">
+  <div>
+    <p class="heading">$HEADING</p>
+    <p class="title">$VALUE</p>
+  </div>
+</div>
+  `;
+  const headings = {
+    'NM' : 'Miles Sailed',
+    'SingleHandedMiles' : 'Solo Miles',
+    'Year' : '&nbsp;'
+  };
+  document.addEventListener('DOMContentLoaded', async function(){
+    const res = await fetch('/.netlify/functions/sailing', {
+      headers : {
+        'content-type' : 'application/json'
+      }
+    });
+    if (res.status >= 299){
+      throw new Error('Could not reach statistics API');
+    }
+    const sailingData = await res.json();
+    console.log(sailingData);
+    let { totalsByYear } = sailingData;
+    totalsByYear = totalsByYear.reverse();
+    let rows = [];
+    totalsByYear.forEach(y => {
+      let yearCells = [];
+      Object.keys(y).forEach(k => {
+        let value = y[k]
+        if (k !== 'Year'){
+          value = Number(value).toLocaleString();  
+        }
+        const heading = headings[k] || k;
+        let item = itemTemplate;
+        item = item.replace('$HEADING', heading)
+        item = item.replace('$VALUE', value);
+        yearCells.push(item);
+      });
+      yearCells = yearCells.join('\n');
+      const row = rowTemplate.replace('$ENTRIES', yearCells);
+      rows.push(row);
+    });
+    rows = rows.join('\n');
+    document.getElementById('sailingstats').innerHTML = rows;
+  }, false);
+
+  
+</script>

@@ -56,9 +56,7 @@
             {{ range sort $pages "Params.weight" }}
             {{ if ne .Name "contact.md" }}
             {{ if eq (os.Stat .File.Dir).Name "photography" }}
-                
             <a class="navbar-item {{if eq $.Page.Section "photography"}}active{{end}}" href="/photography">{{ .Title | markdownify }}</a>
-                
             {{ else if eq (os.Stat .File.Dir).Name "blog" }}
                 <!-- Let`s show some blog posts -->
                 {{ if $isHome }}
@@ -80,6 +78,7 @@
             {{ end }}
             {{ end }}
             
+            <a class="navbar-item"  href="/sailing">Sailing</a>
             <a class="navbar-item"  href="https://www.github.com/cianclarke">CV <i class="fab fa-github"></i></a>
 
             {{ with .Site.GetPage "/home" }}
