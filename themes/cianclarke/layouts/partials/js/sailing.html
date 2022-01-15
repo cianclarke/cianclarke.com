@@ -39,6 +39,9 @@
         if (k !== 'Year'){
           value = Number(value).toLocaleString();  
         }
+        if (k === 'NM'){
+          value += '<small>NM</small>';
+        }
         const heading = headings[k] || k;
         let item = itemTemplate;
         item = item.replace('$HEADING', heading)
