@@ -2,3 +2,6 @@
   command = "npm run build"
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.92.0"
+[dev]
+  framework = "hugo"
+  command = "hugo server -w"
