@@ -101,21 +101,24 @@
         {{ end }}
         <!-- Let`s chat, shall we? -->
         {{ with .Resources.GetMatch "contact.md" }}
-        <div class="section" id="{{ .File.TranslationBaseName }}">
-            <div class="container has-text-centered">
-                <h2 class="title is-2">{{ .Title | markdownify }}</h2>
-                <div class="markdown">
-                    {{ .Content }}
-                </div>
-                {{ if .Site.Params.home.localTime }}
-                <p>{{ i18n "index_currentTime" . }} <span id="time"></span>.</p>
-                {{ end }}
-                {{ with .Site.Params.email }}
-                <h3 class="subtitle is-3 has-text-centered top-pad">
-                    <a href="mailto:{{ . }}">{{ . }}</a>
-                </h3>
-                {{ end }}
-                {{ partial "home/social.html" . }}
+
+        <div class="section hero is-fullheight" id="{{ .File.TranslationBaseName }}">
+            <div class="hero-body">
+              <div class="container has-text-centered contact">
+                  <h2 class="title is-2">{{ .Title | markdownify }}</h2>
+                  <div class="markdown">
+                      {{ .Content }}
+                  </div>
+                  {{ if .Site.Params.home.localTime }}
+                  <p>{{ i18n "index_currentTime" . }} <span id="time"></span>.</p>
+                  {{ end }}
+                  {{ with .Site.Params.email }}
+                  <h3 class="subtitle is-3 has-text-centered top-pad">
+                      <a href="mailto:{{ . }}">{{ . }}</a>
+                  </h3>
+                  {{ end }}
+                  {{ partial "home/social.html" . }}
+              </div>
             </div>
             <!-- End Contact container -->
             {{ partial "top-icon.html" . }}
