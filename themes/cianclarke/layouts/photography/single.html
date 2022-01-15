@@ -1,25 +1,20 @@
 {{ define "main" }}
+
+
     <div class="container markdown top-pad">
         {{ with .Resources.ByType "image" }}
-        <div class="has-text-centered">
-            {{ $moreThanOneImage := gt (len .) 1 }}
-            {{ if $moreThanOneImage }}
-            <div class="owl-carousel owl-theme">
-            {{ end }}
-                {{ range sort . "Params.weight" }}
-                    {{ $image := .Resize "1000x" }}
-                    {{ if $moreThanOneImage }}
-                    <div class="item owl-height">
-                    {{ end }}
-                        <img src="{{ $image.RelPermalink }}" class="img-responsive" alt="{{ $image.Name }}">
-                    {{ if $moreThanOneImage }}
-                    </div>
-                    {{ end }}
-                {{ end }}
-            {{ if $moreThanOneImage }}
-            </div>
-            {{ end }}
-        </div>
+        
+    <div class="has-text-centered">
+      <div class="gallery-container" id="animated-thumbnails-gallery">
+          {{ range sort . "Params.weight" }}
+              {{ $image := .Resize "1000x" }}
+              <a data-lg-size="1600-1067" class="gallery-item" data-src="{{ $image.RelPermalink }}" data-sub-html="<h4>Photo by - <a href='https://unsplash.com/@tobbes_rd' >Tobias Rademacher </a></h4><p> Location - <a href='https://unsplash.com/s/photos/puezgruppe%2C-wolkenstein-in-gr%C3%B6den%2C-s%C3%BCdtirol%2C-italien'>Puezgruppe, Wolkenstein in Gröden, Südtirol, Italien</a>layers of blue.</p>">
+                <img alt="layers of blue." class="img-responsive" src="{{ $image.RelPermalink }}" />
+              </a>
+                  
+          {{ end }}
+      </div>
+    </div>        
         {{ end }}
         {{ .Content }}
     </div>
@@ -28,9 +23,9 @@
 {{ end }}
 
 {{ define "customCSS" }}
-{{ partial "css/owlCarousel.html" . }}
+{{ partial "css/lightgallery.html" . }}
 {{ end }}
 
 {{ define "customScripts" }}
-{{ partial "js/owlCarousel.html" . }}
+{{ partial "js/lightgallery.html" . }}
 {{ end }}
