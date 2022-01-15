@@ -3,12 +3,13 @@
     <hr>
     <nav class="navbar" role="navigation" aria-label="main navigation">
         {{ $isHome := .Page.IsHome }}
+        <h1>Cian Clarke</h1>
         <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false" >
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
         </a>
-        <h1>Cian Clarke</h1>
+        
         <div class="navbar-menu {{ if $isHome }}has-content-centered{{ end }}" id="navMenu">
             <!-- look for custom menu and include it -->
             {{ if .Site.Menus.main }}
