@@ -1,6 +1,6 @@
 ---
 title: "On Brewing: A Confessional"
-date: 2015-09-04T16:51:32.117Z
+date: 2014-04-18T17:57:42.000Z
 showDate: true
 draft: false
 tags: ["blog"]

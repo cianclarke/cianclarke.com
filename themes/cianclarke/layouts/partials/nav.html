@@ -39,7 +39,7 @@
             {{ else }}
             <!-- use default menu -->
             {{ if not $isHome }}
-            <a class="navbar-item" href="{{ "" | relLangURL }}">Home</a>
+            <a class="navbar-item {{if eq $.Page.Section ""}}active{{end}} {{$isHome}}" href="{{ "" | relLangURL }}">Home</a>
             {{ end }}
 
             {{ with .Site.GetPage "/home" }}
@@ -62,10 +62,10 @@
             {{ else if eq (os.Stat .File.Dir).Name "blog" }}
                 <!-- Let`s show some blog posts -->
                 {{ if $isHome }}
-                <a class="navbar-item" href="{{ printf "#%s" ( .Title | urlize) | relLangURL }}">{{ .Title | markdownify }}</a>
+                <a class="navbar-item {{if eq $.Page.Section "blog"}}active{{end}}" href="{{ printf "#%s" ( .Title | urlize) | relLangURL }}">{{ .Title | markdownify }}</a>
                 {{ else }}
                 {{ $pageIsInBlog := eq $.Page.Section "blog"}}
-                  <a class="navbar-item" href="{{ .Permalink }}">
+                  <a class="navbar-item {{if eq $.Page.Section "blog"}}active{{end}}" href="{{ .Permalink }}">
                   {{ if or (eq $.Page.Kind "section") (not $pageIsInBlog) }}
                     {{ .Title | singularize}}
                   {{ else }}

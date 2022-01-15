@@ -1,6 +1,6 @@
 ---
 title: "On Styling Mobile Apps"
-date: 2014-04-04T22:55:59.000Z
+date: 2011-11-26T22:05:47.000Z
 showDate: true
 draft: false
 tags: ["blog"]

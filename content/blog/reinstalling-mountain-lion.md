@@ -1,6 +1,6 @@
 ---
 title: "On Reinstalling Mountain Lion"
-date: 2014-04-04T23:00:16.000Z
+date: 2012-12-02T16:05:30.000Z
 showDate: true
 draft: false
 tags: ["blog"]

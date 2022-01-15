@@ -1,6 +1,6 @@
 ---
 title: "On Asia: Krabi & Koh Lanta"
-date: 2015-12-06T12:32:03.360Z
+date: 2015-12-05T10:26:29.916Z
 showDate: true
 draft: false
 tags: ["blog"]

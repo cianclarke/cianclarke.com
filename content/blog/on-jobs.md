@@ -1,6 +1,6 @@
 ---
 title: "On Jobs"
-date: 2014-04-04T22:56:15.000Z
+date: 2011-11-27T22:06:28.000Z
 showDate: true
 draft: false
 tags: ["blog"]

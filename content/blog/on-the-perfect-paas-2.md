@@ -1,6 +1,6 @@
 ---
 title: "On the Perfect PaaS"
-date: 2014-04-04T22:57:21.000Z
+date: 2012-06-04T17:41:03.000Z
 showDate: true
 draft: false
 tags: ["blog"]

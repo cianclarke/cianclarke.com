@@ -1,6 +1,6 @@
 ---
 title: "On Screen Size"
-date: 2015-03-17T00:29:33.601Z
+date: 2012-07-23T22:25:06.000Z
 showDate: true
 draft: false
 tags: ["blog"]
@@ -19,7 +19,7 @@ Plenty of papers exist illustrating that there is a direct correlation between p
 
 ##  15″ (1440 * 900)
 
-<span class="alignleft">[![](http://res.cloudinary.com/cianclarke/image/upload/h_300,w_300/v1382804190/15_e9x2fe.jpg "15"")](http://res.cloudinary.com/cianclarke/image/upload/v1382804190/15_e9x2fe.jpg)</span>
+<span class="alignleft">[![](http://res.cloudinary.com/cianclarke/image/upload/h_300,w_300/v1382804190/15_e9x2fe.jpg "15")](http://res.cloudinary.com/cianclarke/image/upload/v1382804190/15_e9x2fe.jpg)</span>
 It comes with the laptop –  so I best make the most of it!  
 **Good for:** I find a 15″ display more than ample for simple Web browsing, simple terminal usage, single SSH sessions and writing code for short periods of time. Email, calendaring, short documents and simple git operations are all OK too.  
 **Avoid:** Git merges, of any sort, are very difficult on a laptop screen. Writing code for a prolonged period of time can be painful.
@@ -27,7 +27,7 @@ It comes with the laptop –  so I best make the most of it!
 
 ##  22″ (1900*1200)
 
-<span class="alignright">[![](http://res.cloudinary.com/cianclarke/image/upload/h_228,w_300/v1382804189/22_rwr43g.jpg "22"")](http://res.cloudinary.com/cianclarke/image/upload/v1382804189/22_rwr43g.jpg)</span>
+<span class="alignright">[![](http://res.cloudinary.com/cianclarke/image/upload/h_228,w_300/v1382804189/22_rwr43g.jpg "22")](http://res.cloudinary.com/cianclarke/image/upload/v1382804189/22_rwr43g.jpg)</span>
 The next step up – I’ve found a 22″ monitor sufficient for the majority of day to day tasks. The only limitation I’ve found is incredibly complicated merges covering a large portion of the codebase. I often combine plaintext merge with a visual difftool to get the greatest picture of what’s changed. It’s times like these I find myself pining for more real estate.  
 **Good for:** Writing code for prolonged periods, composing technical documents.  
  Reviewing code, and moderate git merges.  
@@ -37,7 +37,7 @@ The next step up – I’ve found a 22″ monitor sufficient for the majority of
 
 ##  27″ (2560*1440)
 
-<span class="alignright">[![](http://res.cloudinary.com/cianclarke/image/upload/h_229,w_300/v1382804188/27_nxwxh2.jpg "27"")](http://res.cloudinary.com/cianclarke/image/upload/v1382804188/27_nxwxh2.jpg)</span>
+<span class="alignright">[![](http://res.cloudinary.com/cianclarke/image/upload/h_229,w_300/v1382804188/27_nxwxh2.jpg "27")](http://res.cloudinary.com/cianclarke/image/upload/v1382804188/27_nxwxh2.jpg)</span>
 The ultimate. There’s not much which can’t be achieved on a 27″ monitor.  
 **Good for:**  Writing code is bliss – I can fit a full IDE to the left, manpages to the right.  
  Code reviewing is even better. No matter how wide a line goes, side by side diff still works beautifully. Video looks amazing, although anything less then 720p and you’ll be seeing pixels.  
@@ -50,4 +50,3 @@ I’ve been trying for some time to formulate some justification for a second 27
 Will I end up with another at some point in the future? *Probably.*
 
  
-

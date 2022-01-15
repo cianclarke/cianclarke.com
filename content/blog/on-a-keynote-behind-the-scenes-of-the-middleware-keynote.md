@@ -1,13 +1,12 @@
 ---
 title: "On the Middleware Keynote: Behind the Scenes"
-date: 2015-06-24T21:31:44.972Z
+date: 2015-06-24T20:01:43.213Z
 showDate: true
 draft: false
 tags: ["blog"]
 ---
 
-<span class="alignright">
-![Cheesy On-Stage Selfie](http://i.imgur.com/yV0x9INm.jpg)  <br style="clear:both;"/>
+<span class="alignright">![Cheesy On-Stage Selfie](http://i.imgur.com/yV0x9INm.jpg)  <br style="clear:both;"/>
 *Our Cheesy On-Stage Selfie*
 </span>
 Yesterday, I had the great pleasure of presenting as part of a keynote session. I’ve presented lots before - almost weekly to smaller audiences as part of sales, and plenty of developer evangelism presentations too.
@@ -15,8 +14,7 @@ I’ve probably presented to an audience of ~200 before, but today’s keynote m
 
 It’s interesting being involved in such a high-profile demo from start to finish. There’s a huge amount of preparation behind the scenes - our keynote efforts started a month before the presentation. 
 
-<span class="alignright">
-![Behind The Curtain - Jason and Paul standing up our OpenShift environment](http://i.imgur.com/RBqsBpvm.jpg)  <br style="clear:both;"/>
+<span class="alignright">![Behind The Curtain - Jason and Paul standing up our OpenShift environment](http://i.imgur.com/RBqsBpvm.jpg)  <br style="clear:both;"/>
 *Behind The Curtain  
 Jason and Paul standing up our OpenShift environment*
 </span>

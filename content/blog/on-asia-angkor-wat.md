@@ -1,6 +1,6 @@
 ---
 title: "On Asia: Angkor Temples"
-date: 2015-11-24T11:58:19.575Z
+date: 2015-11-24T10:26:01.451Z
 showDate: true
 draft: false
 tags: ["blog"]
@@ -20,12 +20,10 @@ Angkor Wat is the best-preserved of all temples. At the entrance, officals will 
 I quickly discovered leading with "unfortunately I leave tomorrow morning" quickly puts an end to that, but these guides remain very helpful with any questions, and have great English! 
 Needless to say, I didn't spring for a guide - instead opting to interpret what I saw myself. 
 
-<span class="alignleft">
-![The Lads cracking a few cans ](http://i.imgur.com/iQeIfcym.jpg)  <br style="clear:both;"/>
+<span class="alignleft">![The Lads cracking a few cans ](http://i.imgur.com/iQeIfcym.jpg)  <br style="clear:both;"/>
 *The Lads cracking a few cans*
 </span>
-<span class="alignright">
-![Evidence of ancient flatscreen television mount ](http://i.imgur.com/JDHb5Uam.jpg)  <br style="clear:both;"/>
+<span class="alignright">![Evidence of ancient flatscreen television mount ](http://i.imgur.com/JDHb5Uam.jpg)  <br style="clear:both;"/>
 *Evidence of ancient flatscreen television mount*
 </span>
 <br style="clear:both;"/><br style="clear:both;"/>
@@ -45,8 +43,7 @@ Also missing is the same historic pedigree, not built to honor a king in the 12t
 Still - it's local, like. Food for thought, boi. 
 
 Wow - that tangent escalated quickly. Back on topic! By around noon, I thought I'd be templed out - I lost count of how many stunning examples of ancient architecture I'd seen, but not so. 
-<span class="alignright">
-![View from my shaded perch at Prae Roup ](http://i.imgur.com/kniiVyGm.jpg)  <br style="clear:both;"/>
+<span class="alignright">![View from my shaded perch at Prae Roup ](http://i.imgur.com/kniiVyGm.jpg)  <br style="clear:both;"/>
 *View from my shaded perch at Prae Roup*
 </span>
 I should have better planned my path to coincide with arriving by one of the handful of air conditioned indoor restaurants to avoid the mid-day heat, however. 
@@ -58,8 +55,7 @@ The heat was certainly oppressive, but I kept my arms & legs covered for fear of
 The trip to Cambodia was worth it for the temple complex alone, and I felt a (long) day was enough for seeing the highlights, but I moved through fast. 
 A guide to help interpret the temples is probably advised too - it may have helped with my interpretation of the various depictions around the temples! 
 
-<span class="alignright">
-![Boats docked at Srah Srang](http://i.imgur.com/6pRrkz7m.jpg)<br style="clear:both;"/>
+<span class="alignright">![Boats docked at Srah Srang](http://i.imgur.com/6pRrkz7m.jpg)<br style="clear:both;"/>
 _Boats docked at Srah Srang_
 <br style="clear:both;"/><br style="clear:both;"/>
 </span>

@@ -1,6 +1,6 @@
 ---
 title: "On Brewing: Cloning a Smoked Schwarzbier"
-date: 2015-09-04T16:52:03.812Z
+date: 2014-04-10T12:17:24.000Z
 showDate: true
 draft: false
 tags: ["blog"]

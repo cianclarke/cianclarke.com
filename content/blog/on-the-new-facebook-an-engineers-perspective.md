@@ -1,6 +1,6 @@
 ---
 title: "On \"the New Facebook\" - an engineer's perspective."
-date: 2014-04-04T22:55:14.000Z
+date: 2011-09-22T22:02:21.000Z
 showDate: true
 draft: false
 tags: ["blog"]
@@ -38,3 +38,6 @@ Perhaps I’m a little biased, as I work in a career developing Javascript front
  Perhaps it’s just cool to hate Facebook?
 
 Thoughts? Agree? Completely disagree? Feel free to do so in the comments!
+
+
+

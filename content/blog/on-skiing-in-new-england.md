@@ -1,6 +1,6 @@
 ---
 title: "On Skiing in New England"
-date: 2014-04-04T22:53:34.000Z
+date: 2014-03-22T02:10:55.000Z
 showDate: true
 draft: false
 tags: ["blog"]

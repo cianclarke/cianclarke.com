@@ -1,6 +1,6 @@
 ---
 title: "On Developer CVs"
-date: 2014-04-04T23:03:17.000Z
+date: 2013-05-16T10:52:42.000Z
 showDate: true
 draft: false
 tags: ["blog"]

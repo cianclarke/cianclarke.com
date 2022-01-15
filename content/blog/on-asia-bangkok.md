@@ -1,6 +1,6 @@
 ---
 title: "On Asia: Bangkok & Chiang Mai"
-date: 2015-12-09T12:47:44.014Z
+date: 2015-12-05T09:54:38.233Z
 showDate: true
 draft: false
 tags: ["blog"]
@@ -37,11 +37,7 @@ The most resounding difference for us was the locals - a much friendlier bunch, 
 
 It's by far the nicest city we've visited on our trip, and I'd gladly return.  
 
-<span class="alignright">
-<img src="/gallery/Asia/Thailand/IMG_0383.jpg" alt="Elephant Nature Park, Chiang Mai" style="width: 300px;">
-<br style="clear:both;"/>
-*Elephant Nature Park, Chiang Mai*
-</span>
+<span class="alignright"><img src="/gallery/Asia/Thailand/IMG_0383.jpg" alt="Elephant Nature Park, Chiang Mai" style="width: 300px;"><br style="clear:both;"/>*Elephant Nature Park, Chiang Mai*</span>
 
 While staying in Chaing Mai we decided to take a day trip to visit to the [Elephant Nature Park](http://www.elephantnaturepark.org/). This trip was one of the real highlights of Thailand for the group.
 Elephant riding, and even other "sanctuary" day trips are quite common throughout Thailand. The Elephant Nature Park is a true sanctuary, where they take in animals rescued from less ethical conditions, often coming from the tourist trade.

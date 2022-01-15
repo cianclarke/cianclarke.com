@@ -1,6 +1,6 @@
 ---
 title: "On The First Three Years"
-date: 2016-05-16T22:07:28.438Z
+date: 2016-01-15T15:54:54.163Z
 showDate: true
 draft: false
 tags: ["blog"]

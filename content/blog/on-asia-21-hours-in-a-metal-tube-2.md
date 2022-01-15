@@ -1,6 +1,6 @@
 ---
 title: "On Asia: 21 Hours in a Metal Tube"
-date: 2015-11-21T19:49:57.620Z
+date: 2015-11-21T19:37:17.930Z
 showDate: true
 draft: false
 tags: ["blog"]

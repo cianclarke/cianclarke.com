@@ -1,6 +1,6 @@
 ---
 title: "On Building an Online Tap List with BeerSmith"
-date: 2015-03-24T11:43:27.723Z
+date: 2015-03-23T22:53:48.383Z
 showDate: true
 draft: false
 tags: ["blog"]

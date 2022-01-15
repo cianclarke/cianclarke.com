@@ -1,6 +1,6 @@
 ---
 title: "On The Cloud"
-date: 2014-04-04T22:56:48.000Z
+date: 2011-12-18T19:24:44.000Z
 showDate: true
 draft: false
 tags: ["blog"]
@@ -17,7 +17,7 @@ The concept of the cloud is often misunderstood, but remarkably simple: a low-
 
 ##  The Devices
 
-###  <span class="Apple-style-span" style="font-size: 16px; line-height: 24px;">Along with the cloud revolution come a whole host of first generation devices trying to adopt the vision. What follows is an examination of the offerings of two major manufacturers with very different perspectives.</span>
+<span class="Apple-style-span" style="font-size: 16px; line-height: 24px;">Along with the cloud revolution come a whole host of first generation devices trying to adopt the vision. What follows is an examination of the offerings of two major manufacturers with very different perspectives.</span>
 
 
 ##  Google’s Take
@@ -47,6 +47,3 @@ So what does the future hold for the cloud?
  My Mac workstation talks to my portable Chromebook using a cloud that can then sync data to all my mobile devices.
 
 The potential is endless, but we’re limited by 3/4G signal coverage, extortionate roaming rates and the availability of truly fast broadband. As we look toward 2012, I hope that the industry as a whole can put aside petty platform battles. Instead, as we enter into this second generation of cloud connected devices, it’s time to develop a truly interconnected offering for consumers everywhere.
-
-
-

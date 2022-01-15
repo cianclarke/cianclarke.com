@@ -1,6 +1,6 @@
 ---
 title: "On BMW."
-date: 2015-09-04T21:17:50.501Z
+date: 2011-11-09T23:11:02.000Z
 showDate: true
 draft: false
 tags: ["blog"]

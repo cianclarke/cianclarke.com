@@ -1,6 +1,6 @@
 ---
 title: "Ashley Madison in Ireland: By the Numbers"
-date: 2015-09-08T14:30:15.021Z
+date: 2015-08-24T15:42:26.087Z
 showDate: true
 draft: false
 tags: ["blog"]

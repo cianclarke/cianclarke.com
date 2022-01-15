@@ -1,6 +1,6 @@
 ---
 title: "On Photography - Finally, a new DSLR"
-date: 2014-08-10T23:11:50.000Z
+date: 2014-08-13T18:10:23.000Z
 showDate: true
 draft: false
 tags: ["blog"]

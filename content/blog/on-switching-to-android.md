@@ -1,6 +1,6 @@
 ---
 title: "On Switching to Android"
-date: 2015-04-16T15:17:14.852Z
+date: 2015-04-16T15:08:02.408Z
 showDate: true
 draft: true
 tags: ["blog"]

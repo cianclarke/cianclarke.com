@@ -1,6 +1,6 @@
 ---
 title: "On Music in 2012"
-date: 2014-04-04T23:06:49.000Z
+date: 2012-12-16T19:32:03.000Z
 showDate: true
 draft: false
 tags: ["blog"]

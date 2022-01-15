@@ -1,15 +1,13 @@
 ---
 title: "On Computer Science"
-date: 2015-03-17T00:19:35.571Z
+date: 2011-06-27T22:58:47.000Z
 showDate: true
 draft: false
 tags: ["blog"]
 ---
 
 
-<span class="alignright">
-*[![Museum Building](http://res.cloudinary.com/cianclarke/image/upload/h_300,w_199/v1382804360/MG_6409_xlj2vd.jpg "Museum Building, TCD")](http://res.cloudinary.com/cianclarke/image/upload/v1382804360/MG_6409_xlj2vd.jpg)
-</span>
+<span class="alignright">*[![Museum Building](http://res.cloudinary.com/cianclarke/image/upload/h_300,w_199/v1382804360/MG_6409_xlj2vd.jpg "Museum Building, TCD")](http://res.cloudinary.com/cianclarke/image/upload/v1382804360/MG_6409_xlj2vd.jpg)</span>
 Want a job? Not just a job, but a guaranteed job? A career you really enjoy? Free recruitment holidays, and competitive pay? Computer Science. tbh.*
 
 Think Computer Science, and what do you think? Long haired, socially inept geeks? Board games, black clothes and a peculiar aversion to natural light? Heavy metal, anime and glasses? Thankfully these stereotypes couldn’t be further from the truth.  
@@ -55,6 +53,3 @@ The beauty of a technology orientated degree is not only can you expect a job, b
  If I drew up a list of technologies I wanted to work with, my current role fulfills every one.
 
 Enjoying what you do is a unique privilege not enjoyed by many industries. If you enjoy working with technology, the web, or computers in general, choose Computer Science – you won’t regret it.
-
-
-

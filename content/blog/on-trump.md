@@ -1,6 +1,6 @@
 ---
 title: "On Trump"
-date: 2016-11-09T19:35:41.153Z
+date: 2016-11-09T14:04:01.471Z
 showDate: true
 draft: true
 tags: ["blog"]

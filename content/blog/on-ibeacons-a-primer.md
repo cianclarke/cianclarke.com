@@ -1,6 +1,6 @@
 ---
 title: "On iBeacons: A Primer"
-date: 2015-09-04T16:49:14.405Z
+date: 2014-05-01T21:36:09.000Z
 showDate: true
 draft: false
 tags: ["blog"]

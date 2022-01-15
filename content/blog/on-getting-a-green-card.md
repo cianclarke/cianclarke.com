@@ -1,6 +1,6 @@
 ---
 title: "On the Diversity Visa Lottery & Green Card process"
-date: 2015-07-08T21:56:53.221Z
+date: 2015-07-08T09:00:59.703Z
 showDate: true
 draft: false
 tags: ["blog"]

@@ -1,6 +1,6 @@
 ---
 title: "On Asia: Singapore"
-date: 2016-11-09T13:34:11.364Z
+date: 2016-10-30T13:18:33.825Z
 showDate: true
 draft: false
 tags: ["blog"]

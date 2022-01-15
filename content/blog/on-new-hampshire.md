@@ -1,6 +1,6 @@
 ---
 title: "On New Hampshire"
-date: 2015-09-04T16:56:36.749Z
+date: 2013-06-25T01:59:52.000Z
 showDate: true
 draft: false
 tags: ["blog"]

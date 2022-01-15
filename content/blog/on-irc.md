@@ -1,6 +1,6 @@
 ---
 title: "On IRC"
-date: 2015-09-23T17:20:53.400Z
+date: 2015-09-23T15:54:57.178Z
 showDate: true
 draft: false
 tags: ["blog"]

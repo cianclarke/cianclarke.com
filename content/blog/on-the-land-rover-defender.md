@@ -1,6 +1,6 @@
 ---
 title: "On the Land Rover Defender"
-date: 2015-03-17T00:26:56.867Z
+date: 2012-08-27T21:38:16.000Z
 showDate: true
 draft: false
 tags: ["blog"]
@@ -12,8 +12,7 @@ A friend of mine recently purchased a 2005 Land Rover Defender 90 TD5. The vehic
 
 ##  Exterior
 
-<span class="alignleft">
-[![](http://res.cloudinary.com/cianclarke/image/upload/h_300,w_259/v1382804186/Screen-Shot-2012-08-27-at-22_15_54_gejpst.png "Defender 90")](http://res.cloudinary.com/cianclarke/image/upload/v1382804186/Screen-Shot-2012-08-27-at-22_15_54_gejpst.png)</span>
+<span class="alignleft">[![](http://res.cloudinary.com/cianclarke/image/upload/h_300,w_259/v1382804186/Screen-Shot-2012-08-27-at-22_15_54_gejpst.png "Defender 90")](http://res.cloudinary.com/cianclarke/image/upload/v1382804186/Screen-Shot-2012-08-27-at-22_15_54_gejpst.png)</span>
 
 First impressions of the Defender, it’s a staggeringly handsome vehicle.  Finished in silver, the black grilles and trim contrast beautifully. Factory fitted extras include a rubber coated bull bar & mounted spots, modernising the front of the vehicle substantially.
 
@@ -37,8 +36,7 @@ The only minor complaint inside is the driving position. Front seats seem to lac
 
 
 ##  On The Road
-<span class="alignleft">
-[![](http://res.cloudinary.com/cianclarke/image/upload/h_109,w_300/v1382804182/Screen-Shot-2012-08-27-at-22_19_49_q8y2w6.png "Defender and Discovery parked")](http://res.cloudinary.com/cianclarke/image/upload/v1382804182/Screen-Shot-2012-08-27-at-22_19_49_q8y2w6.png)</span>
+<span class="alignleft">[![](http://res.cloudinary.com/cianclarke/image/upload/h_109,w_300/v1382804182/Screen-Shot-2012-08-27-at-22_19_49_q8y2w6.png "Defender and Discovery parked")](http://res.cloudinary.com/cianclarke/image/upload/v1382804182/Screen-Shot-2012-08-27-at-22_19_49_q8y2w6.png)</span>
 The thing that most surprised me about the defender was just how tame it is on the road. The suspension is not excessively harsh, and is comfortable even on long journeys.
 
 Even more surprising is the power delivery – the TD5 engine is an absolute marvel.  This mere 2.5 liter 5 cylinder turbocharged diesel delivers way above its pay grade. It delivers 30+mpg, and incredible bursts of acceleration for such a small displacement. The turbo lag is minor, and can be alleviated with driving style.
@@ -62,6 +60,3 @@ What strikes me most is just how approachable the Defender is as a 4×4, even 
 ##  To Conclude
 
 My initial expectations for the Defender could be summarised in one word: impractical. I’d expected cabin noise, panel rattle and thirsty, sluggish performance. What the Defender delivers is the complete opposite. The Defender proves itself a perfectly viable daily driver. The turning circle rules out the Defender as a city car, but that shouldn’t be the target market. For a versatile vehicle off and on the road, the defender would absolutely be my 4×4 of choice.
-
-
-

@@ -1,6 +1,6 @@
 ---
 title: "How Popular Apps Access APIs"
-date: 2015-09-04T16:38:00.259Z
+date: 2014-09-26T13:30:11.000Z
 showDate: true
 draft: false
 tags: ["blog"]

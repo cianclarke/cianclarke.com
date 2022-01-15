@@ -1,6 +1,6 @@
 ---
 title: "On Better Passwords"
-date: 2015-08-11T17:07:33.854Z
+date: 2015-08-07T15:52:20.263Z
 showDate: true
 draft: false
 tags: ["blog"]

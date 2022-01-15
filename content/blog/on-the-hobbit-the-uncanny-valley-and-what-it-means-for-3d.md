@@ -1,6 +1,6 @@
 ---
 title: "On The Hobbit, the Uncanny Valley, and what it means for 3D"
-date: 2015-09-04T21:14:07.750Z
+date: 2012-12-22T01:01:36.000Z
 showDate: true
 draft: false
 tags: ["blog"]

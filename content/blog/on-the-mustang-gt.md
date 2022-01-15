@@ -1,6 +1,6 @@
 ---
 title: "On the Mustang GT"
-date: 2015-09-04T21:11:18.740Z
+date: 2013-02-24T17:27:04.000Z
 showDate: true
 draft: false
 tags: ["blog"]

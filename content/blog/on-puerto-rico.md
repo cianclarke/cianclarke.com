@@ -1,6 +1,6 @@
 ---
 title: "On Puerto Rico"
-date: 2014-04-08T21:06:19.000Z
+date: 2014-04-08T21:04:18.000Z
 showDate: true
 draft: false
 tags: ["blog"]

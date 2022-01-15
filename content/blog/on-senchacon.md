@@ -1,6 +1,6 @@
 ---
 title: "On Senchacon"
-date: 2015-09-04T21:19:02.345Z
+date: 2011-10-27T23:08:32.000Z
 showDate: true
 draft: false
 tags: ["blog"]

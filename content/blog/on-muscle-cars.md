@@ -1,6 +1,6 @@
 ---
 title: "On Muscle Cars"
-date: 2015-09-04T16:54:34.766Z
+date: 2013-12-12T20:57:03.000Z
 showDate: true
 draft: false
 tags: ["blog"]

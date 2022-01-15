@@ -1,6 +1,6 @@
 ---
 title: "On the Tasting Menu at The Cliff House"
-date: 2015-06-28T14:56:57.451Z
+date: 2015-06-27T11:45:04.661Z
 showDate: true
 draft: false
 tags: ["blog"]

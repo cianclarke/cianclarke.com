@@ -1,6 +1,6 @@
 ---
 title: "On my first year in a startup"
-date: 2015-09-04T21:15:53.217Z
+date: 2012-06-01T22:00:07.000Z
 showDate: true
 draft: false
 tags: ["blog"]

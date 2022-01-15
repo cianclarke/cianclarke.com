@@ -1,6 +1,6 @@
 ---
 title: "On Buying a Sailboat"
-date: 2016-09-08T15:22:56.332Z
+date: 2016-08-05T14:07:37.847Z
 showDate: true
 draft: false
 tags: ["blog"]
@@ -78,3 +78,4 @@ Hopefully before the 2016 season ends we'll get to spend a night or two on the b
 More on that as I have it!
 
 <img src="http://i.imgur.com/HVfVchQ.jpg" alt="Catalina 30" style="">
+

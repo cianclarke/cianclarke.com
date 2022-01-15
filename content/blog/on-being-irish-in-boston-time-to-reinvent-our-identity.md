@@ -1,6 +1,6 @@
 ---
 title: "On Being Irish in Boston - Time to Reinvent Our Identity?"
-date: 2015-09-04T16:59:09.041Z
+date: 2013-03-26T14:52:47.000Z
 showDate: true
 draft: false
 tags: ["blog"]

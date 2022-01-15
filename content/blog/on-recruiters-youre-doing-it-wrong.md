@@ -1,6 +1,6 @@
 ---
 title: "On Recruiters: You're doing it wrong"
-date: 2015-06-11T17:56:19.087Z
+date: 2015-06-11T16:23:28.687Z
 showDate: true
 draft: false
 tags: ["blog"]

@@ -1,6 +1,6 @@
 ---
 title: "On the Art of Chance"
-date: 2015-03-17T01:17:25.720Z
+date: 2013-04-16T04:15:08.000Z
 showDate: true
 draft: false
 tags: ["blog"]

@@ -1,6 +1,6 @@
 ---
 title: "On Raw Requests from the Request Module in Node.js"
-date: 2015-09-17T19:05:20.957Z
+date: 2015-09-17T15:44:05.821Z
 showDate: true
 draft: false
 tags: ["blog"]

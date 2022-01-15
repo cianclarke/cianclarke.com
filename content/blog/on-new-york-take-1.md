@@ -1,6 +1,6 @@
 ---
 title: "On New York - Take 1"
-date: 2015-09-04T17:00:10.441Z
+date: 2013-03-21T16:13:57.000Z
 showDate: true
 draft: false
 tags: ["blog"]

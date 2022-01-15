@@ -1,6 +1,6 @@
 ---
 title: "On Tom Yum Soup"
-date: 2015-08-24T01:43:37.032Z
+date: 2015-08-17T19:41:19.455Z
 showDate: true
 draft: false
 tags: ["blog"]

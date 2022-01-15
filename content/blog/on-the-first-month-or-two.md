@@ -1,6 +1,6 @@
 ---
 title: "On the first month (or two)"
-date: 2015-09-04T21:01:11.400Z
+date: 2013-03-10T23:46:04.000Z
 showDate: true
 draft: false
 tags: ["blog"]

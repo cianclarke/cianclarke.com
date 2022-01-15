@@ -1,6 +1,6 @@
 ---
 title: "On Sharepoint: An Angry Developer's Integration Primer"
-date: 2015-09-01T18:07:28.047Z
+date: 2015-08-18T19:43:54.549Z
 showDate: true
 draft: false
 tags: ["blog"]

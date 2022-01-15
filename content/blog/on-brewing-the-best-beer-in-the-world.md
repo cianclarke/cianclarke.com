@@ -1,6 +1,6 @@
 ---
 title: "On Brewing: The Best Beer in the World"
-date: 2015-03-18T01:57:50.661Z
+date: 2014-08-10T22:54:31.000Z
 showDate: true
 draft: false
 tags: ["blog"]

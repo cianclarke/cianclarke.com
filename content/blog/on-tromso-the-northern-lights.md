@@ -1,6 +1,6 @@
 ---
 title: "On Tromsø & the Northern Lights"
-date: 2015-03-17T00:31:26.779Z
+date: 2012-12-10T22:57:28.000Z
 showDate: true
 draft: false
 tags: ["blog"]

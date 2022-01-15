@@ -1,6 +1,6 @@
 ---
 title: "On America & the Great Outdoors"
-date: 2015-09-04T16:58:08.337Z
+date: 2013-04-01T00:15:21.000Z
 showDate: true
 draft: false
 tags: ["blog"]

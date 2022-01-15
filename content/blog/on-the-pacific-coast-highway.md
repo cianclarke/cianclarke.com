@@ -1,6 +1,6 @@
 ---
 title: "On the Pacific Coast Highway"
-date: 2015-09-04T16:41:11.490Z
+date: 2014-08-20T20:09:41.000Z
 showDate: true
 draft: false
 tags: ["blog"]

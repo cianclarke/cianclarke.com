@@ -1,6 +1,6 @@
 ---
 title: "On QR Codes."
-date: 2014-04-04T22:55:35.000Z
+date: 2011-11-10T21:18:29.000Z
 showDate: true
 draft: false
 tags: ["blog"]
