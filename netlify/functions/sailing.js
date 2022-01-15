@@ -2,7 +2,12 @@ const { GoogleSpreadsheet } = require('google-spreadsheet');
 let dataCache = {};
 exports.handler = async (event, context) => {
   if (dataCache['totalsByYear']){
-    return dataCache.totalsByYear;
+    return {
+      statusCode: 200,
+      body: JSON.stringify({
+        totalsByYear : dataCache.totalsByYear
+      })
+    }
   }
   
   
@@ -34,5 +39,3 @@ exports.handler = async (event, context) => {
     })
   }
 }
-
-exports.handler()
