@@ -7,9 +7,23 @@
     <div class="has-text-centered">
       <div class="gallery-container" id="animated-thumbnails-gallery">
           {{ range sort . "Params.weight" }}
+          
+              
+          
               {{ $image := .Resize "1000x" }}
-              <a data-lg-size="1600-1067" class="gallery-item" data-src="{{ $image.RelPermalink }}" data-sub-html="<h4>Photo by - <a href='https://unsplash.com/@tobbes_rd' >Tobias Rademacher </a></h4><p> Location - <a href='https://unsplash.com/s/photos/puezgruppe%2C-wolkenstein-in-gr%C3%B6den%2C-s%C3%BCdtirol%2C-italien'>Puezgruppe, Wolkenstein in Gröden, Südtirol, Italien</a>layers of blue.</p>">
-                <img alt="layers of blue." class="img-responsive" src="{{ $image.RelPermalink }}" />
+              
+              
+              {{/* Get the image filename to use as the zoomed in image description */}}
+              {{ $pathSplit := path.Split $image }}
+              {{ $fileNameWithoutExtension := $pathSplit.File }}
+              {{ $fileNameWithoutExtension := replace $fileNameWithoutExtension ".jpg" "" }}
+              {{ $fileNameWithoutExtension := replace $fileNameWithoutExtension ".jpeg" "" }}
+              {{ $fileNameWithoutExtension := replace $fileNameWithoutExtension ".png" "" }}
+              
+              
+              
+              <a data-lg-size="1600-1067" class="gallery-item" data-src="{{ $image.RelPermalink }}" data-sub-html="<h4>{{ $fileNameWithoutExtension }}</a></h4><p></p>">
+                <img alt="{{ $fileNameWithoutExtension }}" class="img-responsive" src="{{ $image.RelPermalink }}" />
               </a>
                   
           {{ end }}
