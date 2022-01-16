@@ -43,10 +43,34 @@ nav a.navbar-burger
 nav a.active
   color: $primary
 
-#sailingstats hr:last-of-type
-  display: none;
-
-#sailingstats .level-item
-  min-width: 270px;
+#sailingstats 
+  hr:last-of-type
+    display: none;
+  .level-item
+    min-width: 270px;
   small
     font-size: 0.4em;
+  strong
+    font-weight: 900;
+
+#tabs-with-content .tabs:not(:last-child)
+  margin-bottom: 0;
+#tabs-with-content .tab-content
+  padding: 1rem;
+  display: none;
+
+#tabs-with-content .tab-content.is-active
+  display: block;
+
+section.hero div.tabs ul
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #dbdbdb;
+
+section.boats
+  p.text 
+    font-size: 1rem;
+  p.boattype
+    font-style: italic;
+    margin-bottom: 0px;
+  

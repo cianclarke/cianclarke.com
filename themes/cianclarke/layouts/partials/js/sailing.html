@@ -13,6 +13,37 @@
   </div>
 </div>
   `;
+const boatTemplate = `
+<div class="column card">  
+  <div class="card-image">
+    <figure class="image is-4by3">
+      <img src="$IMAGE" alt="Boat Image">
+    </figure>
+  </div>
+  <div class="card-content">
+    <p class="title">
+      $BOAT
+    </p>
+    <!--<p class="subtitle">
+      $NAME
+    </p>-->
+    <p class="subtitle boattype">
+      $TYPE
+    </p>
+    <p class="text">
+      $DESC
+    </p>
+  </div>
+  <footer class="card-footer">
+    <p class="card-footer-item">
+      <div>
+        <p class="heading"></p>
+        <p class="title">$NM<small>Nm</small></p>
+      </div>
+    </p>
+  </footer>  
+</div>
+`;
   const headings = {
     'NM' : 'Miles Sailed',
     'SingleHandedMiles' : 'Solo Miles',
@@ -29,20 +60,34 @@
     }
     const sailingData = await res.json();
     console.log(sailingData);
-    let { totalsByYear } = sailingData;
+    let { totalsByYear, totalsByBoat } = sailingData;
     totalsByYear = totalsByYear.reverse();
+    // get first 5 rows (4 years plus totals)
+    totalsByYear = totalsByYear.slice(0, 5);
     let rows = [];
-    totalsByYear.forEach(y => {
+    totalsByYear.forEach((y, idx) => {
       let yearCells = [];
       Object.keys(y).forEach(k => {
         let value = y[k]
-        if (k !== 'Year'){
+        if (k==='Year'){
+          value = `<strong>${value}</strong>`;
+        }else{
           value = Number(value).toLocaleString();  
         }
+        
         if (k === 'NM'){
-          value += '<small>NM</small>';
+          value += '<small>Nm</small>';
         }
-        const heading = headings[k] || k;
+        if (k === 'Hours'){
+          value += '<small>Hrs</small>';
+        }
+        if (k === 'SingleHandedMiles'){
+          value += '<small>Nm</small>';
+        }
+        let heading = headings[k] || k;
+        if (idx > 0){
+          heading = '';
+        }
         let item = itemTemplate;
         item = item.replace('$HEADING', heading)
         item = item.replace('$VALUE', value);
@@ -54,7 +99,62 @@
     });
     rows = rows.join('\n');
     document.getElementById('sailingstats').innerHTML = rows;
+    
+    let boatCards = [];
+    totalsByBoat.forEach((b, idx) => {
+      let boatCard = boatTemplate;
+      boatCard = boatCard.replace('$IMAGE', b.Image);
+      boatCard = boatCard.replace('$BOAT', b.Boat);
+      boatCard = boatCard.replace('$TYPE', b.Type);
+      boatCard = boatCard.replace('$DESC', b.Description);
+      boatCard = boatCard.replace('$NM', b.NM);
+      boatCard = boatCards.push(boatCard);
+    });
+    boatCards[5] = ('<div class="column" />  ');
+    
+    document.getElementById('boats1').innerHTML = boatCards.slice(0, 3).join('\n');;
+    document.getElementById('boats2').innerHTML = boatCards.slice(3, 6).join('\n');;
   }, false);
+
+  let tabsWithContent = (function () {
+    let tabs = document.querySelectorAll('.tabs li');
+    let tabsContent = document.querySelectorAll('.tab-content');
+
+    let deactvateAllTabs = function () {
+      tabs.forEach(function (tab) {
+        tab.classList.remove('is-active');
+      });
+    };
+
+    let hideTabsContent = function () {
+      tabsContent.forEach(function (tabContent) {
+        tabContent.classList.remove('is-active');
+      });
+    };
+
+    let activateTabsContent = function (tab) {
+      tabsContent[getIndex(tab)].classList.add('is-active');
+    };
+
+    let getIndex = function (el) {
+      return [...el.parentElement.children].indexOf(el);
+    };
+
+    tabs.forEach(function (tab) {
+      tab.addEventListener('click', function () {
+        deactvateAllTabs();
+        hideTabsContent();
+        tab.classList.add('is-active');
+        activateTabsContent(tab);
+      });
+    })
+    
+    // Hack to allow the map to calculate correct zoom level before it is hidden
+    setTimeout(function(){
+      tabs[0].click();  
+    }, 2000);
+    
+  })();
 
   
 </script>

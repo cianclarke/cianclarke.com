@@ -1,11 +1,12 @@
 const { GoogleSpreadsheet } = require('google-spreadsheet');
 let dataCache = {};
 exports.handler = async (event, context) => {
-  if (dataCache['totalsByYear']){
+  if (dataCache['totalsByYear'] && dataCache['totalsByBoat']){
     return {
       statusCode: 200,
       body: JSON.stringify({
-        totalsByYear : dataCache.totalsByYear
+        totalsByYear : dataCache.totalsByYear,
+        totalsByBoat : dataCache.totalsByBoat
       })
     }
   }
@@ -32,10 +33,21 @@ exports.handler = async (event, context) => {
   });
   dataCache['totalsByYear'] = totalsByYear;
   
+  const totalsByBoatSheet = doc.sheetsByTitle['TotalsByBoat'];
+  const boatRows = await totalsByBoatSheet.getRows(); // can pass in { limit, offset }
+  const totalsByBoat = boatRows.map(r => {
+    console.log(r);
+    let { Name, Boat, NM, LOA, Type, Description, Image } = r;
+    NM = Math.round(NM);
+    return { Boat, NM, LOA, Type, Boat, Description, Image };
+  });
+  dataCache['totalsByBoat'] = totalsByBoat;
+  
   return {
     statusCode: 200,
     body: JSON.stringify({
-      totalsByYear
+      totalsByYear,
+      totalsByBoat
     })
   }
 }
