@@ -88,9 +88,9 @@ const boatTemplate = `
           value += '<small>Nm</small>';
         }
         let heading = headings[k] || k;
-        if (idx > 0){
-          heading = '';
-        }
+        // if (idx > 0){
+        //   heading = '';
+        // }
         let item = itemTemplate;
         item = item.replace('$HEADING', heading)
         item = item.replace('$VALUE', value);
