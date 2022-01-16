@@ -27,21 +27,24 @@ const boatTemplate = `
     <!--<p class="subtitle">
       $NAME
     </p>-->
-    <p class="subtitle boattype">
-      $TYPE
-    </p>
+    <footer class="card-footer">
+      
+        <div>
+          <p class="title">$TYPE</p>
+        </div>
+      
+      <p class="card-footer-item">
+        <div>
+          <p class="title">$NM<small>Nm</small></p>
+        </div>
+      </p>
+    </footer>  
     <p class="text">
       $DESC
     </p>
   </div>
-  <footer class="card-footer">
-    <p class="card-footer-item">
-      <div>
-        <p class="heading"></p>
-        <p class="title">$NM<small>Nm</small></p>
-      </div>
-    </p>
-  </footer>  
+  
+  
 </div>
 `;
   const headings = {
