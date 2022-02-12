@@ -7,7 +7,9 @@ tags: ["blog"]
 ---
 I had Owned Solitude, my 1987 Catalina 30 for 4 years - and after sailing that little boat some 3,000nm over the course of those four summers, it was a boat I found myself quickly outgrowing. 
 
-It was when I found myself taking Solitude solo some 30nm offshore, regularly out in 30kt winds for shits ’n’ giggles, or PHRF racing, it was time to admit I was probably exceeding the `coastal cruiser` design brief of the boat .
+It was when I found myself taking Solitude solo some 30nm offshore, regularly out in 30kt winds for shits ’n’ giggles, or PHRF racing, it was time to admit I was probably exceeding the "coastal cruiser" design brief of the boat .
+
+![Solitude](/images/speckchronicles/solitude.jpeg)
 
 The Catalina 30 was a great summer cruising boat, but not built for extended trips offshore, and we found it too small a platform to mount multi-week cruises from.
 
@@ -45,7 +47,10 @@ So with these two ruled out, I continued about my summer, happily sailing Solitu
 I had followed the travels of Speck closely ever since two friends of mine, Byron and Dan discovered Speck sitting in a yard in rural New York, picked her up for a song, and extensively refit her for an around the world voyage. 
 
 Fast forward 18 months later,  their circumnavigation was cut short by the pandemic,, and the boat was back in Boston,  for sale once again for a song. 
+  
+![Speck for Sale](/images/speckchronicles/speckFS.jpeg)
 
+  
 So how’d she score on my previous criteria?  
 She was tough to sail 5 nights a week in her existing format - no sail cover, and a bajillion lines to content with.  I gave her *5/10.*  
 She was nicely appointed down below - a bit dark perhaps, and cockpit a tad small compared to modern boats, but had a full suite of long-term cruising amenities.  *8/10*  
@@ -64,11 +69,10 @@ Unlike the swans, there was no dreaded split-cockpit to -step- trip over when ge
 She had a nice deep draft at 7ft 3”, but not _too_ deep (the J/130 was almost 9ft - eek!)   
 This meant she would sail like a witch to windward, and combined with her hull shape, would be sea kindly in any kind of chop.   
 Pilot berths port and starboard, no longer fashionable in modern boats, make for a great boat to bring a bunch of friends sailing offshore for days on end.   
-
-* Ballast:Displacement
-* Performance SAD 
-* 
-
+Her deep keel leaves lots of room for ballast weight too - and her ballast to displacement ratio of ~45% makes her a stiff boat in a blow. 
+Lastly, Speck is the Tall Rig version, with a 55' I measurement. This gives her a sail area to displacement ratio of ~24 - meaning she can still keep moving in lighter winds when compared to other boats.  
+By racing standards, she's an offshore tank - but as cruising boats go, she's pretty light & nimble.   
+  
 There were two big downsides. These boats might look like Swans, but in one key area, they are not. They were the beginnings of Beneteau’s journey into liner-built boats, where support stringers are encased in a liner before being molded to the hull. 
 Thankfully, the keel stringers are visible outside the liner on this boat. The previous owner had dropped the keel, reinforced the strings by adding several layers of glass, and reinstalled the bolts with new backing plates - so my worries were well alleviated here.   
 The other downside - I’ve always had a soft spot for teak decks, but therein lies the issue: Soft spots. Boat builders in the 80s (Swan included) hadn’t yet found how strong modern adhesives could be, so they are attached to the cabin top by thousands of tiny screw holes. Invariably, this could lead to leaks.   
@@ -83,6 +87,8 @@ Time for survey came along, and the surveyor’s closing remarks said it all for
 There were only two "Recommendations”, items which an insurance company require the completion of before binding cover: 
 * A disused bronze through-hull was missing a cap fitting
 * The propane regulator needed to have a pressure gauge
+  
+![Survey](/images/speckchronicles/survey.jpeg)
   
 Survey done, Speck was mine. 
   
