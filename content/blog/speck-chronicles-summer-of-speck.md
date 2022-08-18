@@ -1,6 +1,6 @@
 ---
 title: "Speck Chronicles: Part 2 - Summer of Speck"
-date: 2022-08-18T21:47:44.014Z
+date: 2022-02-18T12:47:44.014Z
 showDate: true
 draft: false
 tags: ["blog"]
