@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT, GPT-2 & What This Means for Conversational AI"
+title: "ChatGPT, GPT-3 & What This Means for Conversational AI"
 date: 2023-01-19T14:47:44.014Z
 showDate: true
 draft: false
