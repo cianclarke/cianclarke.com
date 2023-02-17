@@ -3,7 +3,7 @@ title: "ChatGPT, GPT-3 & What This Means for Conversational AI"
 date: 2023-01-19T14:47:44.014Z
 showDate: true
 draft: false
-tags: ["blog"]
+tags: ["blog", "openai", "gpt-3", "chatgpt"]
 ---
 
 Time for a brief return to my past life as bundle-of-red-hair-jetting-about-on-a-stage tech evangelist, to share some thoughts on ChatGPT. 

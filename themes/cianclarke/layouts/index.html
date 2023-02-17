@@ -23,7 +23,7 @@
             <div class="hero-body">
                 <div class="container has-text-centered">
                     <!-- Title and tagline -->
-                    <h1 class="bold-title {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in one{{ end }}">
+                    <h1 class="bold-title homeTitle {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in one{{ end }}">
                         {{ .Title | markdownify }}
                     </h1>
                     <div class="subtitle is-3 {{ if or (.Site.Params.fadeIn | default true) .Site.Params.fadeInIndex }}fade-in two{{ end }}">
@@ -48,6 +48,7 @@
         {{ $pages := .Resources.ByType "page" }}
 
         {{ with .Site.GetPage "/blog" }}
+          BLOGzzzz
             {{ $pages = $pages | append . }}
         {{ end }}
 
