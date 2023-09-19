@@ -212,4 +212,9 @@ print(chain.invoke(query))
 {{< / highlight >}}
 ```
 
+We should see the answer to our question: What is happening with Justice Breyer? 
+```
+Justice Breyer is retiring from the United States Supreme Court
+```
+
 That's it! A basic RAG pipeline using AWS's serverless instance of OpenSearch Vector DB, combined with Langchain. 
