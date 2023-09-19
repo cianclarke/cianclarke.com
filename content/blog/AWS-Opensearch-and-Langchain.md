@@ -17,8 +17,6 @@ The technique du jour is something called *RAG (Retrieval Augmented Generation)*
 At the heart of these RAG-based solutions is a vector database to store documents in. The poster child of the space is an a16z-backed company called PineCone, but it's a standalone SaaS service, which for a database, doesn't meet the needs of the many enterprise customers I work with.  
 Amazon have just launched a version of OpenSearch's Vector Database, which is serverless - so there's no need to worry about infrastructure. In this post, I will show how to pair it with Langchain to quickly set up a RAG-based solution.  
 My programming language of choice is typically Javascript - but alas the Javascript bindings for Langchain at time of writing [don't support AWS hosted instances of OpenSearch VectorDB](https://github.com/langchain-ai/langchainjs/issues/2302) - so we're going to have to use Python. 
-# markdown link
-
 
 
 ## Create an Opensearch Serverless Vector Collection 
